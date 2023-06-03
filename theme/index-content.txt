@@ -47,7 +47,8 @@ mis ei vaja tööks JavaScripti toega brauserit ega serverilt
 midagi peale staatiliste failide majutamise võime. Blogi kompileerib
 offline'is pisike Javas tehtud programm, siis see laetakse üles.
 Väga 80-ndate lõpu tehnoloogia, aga murevaba ja töökindel.
-Lähtekoodi leiate <a target=_blank href="https://github.io/perestroika-pw/perestroika-blog-engine">siit</a>.
+Lähtekoodi leiate <a target=_blank href="https://github.com/perestroika-pw/perestroika-blog-engine/">GitHub-ist</a>.
+Seal on kõik poolik ja katki, palun varuge kannatust. :)
 <p>
 Kui teil on ligipääs kohale, kus tahate meid promoda, palun võtke vastu hästi suur AITÄH! :)
 Ilma promota ei jõua kuhugi. Kui tahame midagi muuta, peame kisama kõvemini
