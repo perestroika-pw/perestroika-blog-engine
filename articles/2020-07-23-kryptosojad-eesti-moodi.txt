@@ -1,0 +1,155 @@
+Krüptosõjad Eesti moodi?
+2020-07-23
+perestroika.pw
+side, turvalisus, siseministeerium, rumalus
+
+<p>
+
+<div class=illustration-image>
+<img src="./pics/2020-07-24-otp.png"><br>
+OTP on lihtne ja murdmatu algoritm,<br>
+mille kasutamiseks piisab juhuarvudest<br>
+ja oskusest jäägiga liita-lahutada.<br>
+<br>
+Allikas: meie ise<br>
+Litsents: public domain<p>
+</a>
+</div>
+
+
+<p>
+<a target=_blank href="https://www.err.ee/1115645/siseministeerium-soovib-krupteeritud-sonumirakendustesse-tagaust">
+ERR vahendab</a>, et siseministeerium soovib tagaust krüpteeritud sõnumirakendustesse ning lisaks kõigi kõnekaartide registreerimist.
+Delfi on avaldanud uudise, et majandus- ja kommunikatsioonimisteerium tunneb muret,  
+<a target=_blank href="https://forte.delfi.ee/news/tarkvara/mkm-on-mures-kas-eesti-hakkab-toesti-noudma-suhtlusappidelt-tagauksi?id=90528965">
+kas Eesti kavatseb hakata tarkvarasse tagauksi nõudma</a>.
+<p>
+Alljärgnevad 5 punkti seletavad ilma ropendamata, miks soov on sotsiaalselt,
+tehniliselt ja matemaatiliselt lühinägelik ja tsiviilkaitse seisukohast kahjulik.
+Alustame sellest, mida arvab asekantsler:
+<p>
+<span class=quote>"Veiko Kommusaar ütleb, et korrakaitsjad võiks saada rakendustelt samasuguseid andmeid, nagu täna saadakse telefonifirmadelt.
+ /../ Kommusaar rääkis, et sõnumisaladus on oluline, kuid see ei tohi takistada korrakaitsjate tööd."</span>
+<p>
+Pigem ikka: korrakaitsjate töö on oluline, aga see ei tohiks kaotada ära turvalisust sidevõrkudes.
+Antud soov kaotab ära turvalisuse sidevõrkudes.
+<p>
+Telefonifirmadelt saavad aga korrakaitsjad praegu Euroopa Kohtu poolt
+keelatud määral andmeid, ning Eesti seadusandja eirab kohtu otsust juba üle 10 aasta.
+Kes ei usu, loeb <a target=_blank href="https://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf">kohtuotsust</a>
+direktiivi 2006/24/EC osas, seejärel lugege palun advokaat
+<a target=_blank href="https://www.err.ee/869239/ginter-telefoniandmete-massiline-kogumine-on-inimoigustega-vastuolus">Carri Ginterit</a>:
+<p>
+<span class=quote>"See on karauul, on aeg appi karjuda. Kui Euroopa Kohus ütleb,
+et asi mitte mingil juhul ei tohi eksisteerida, inimõiguste kohus ütles viimati septembris 2018,
+et selline asi ei tohi mingil juhul olla, siis meil kuidagi on pead liiva all
+ja ootame kuni probleem kohtus materialiseerub."</span>
+<p>
+
+<p>Siseministeeriumi praegune soov on nagu nädal otsa kommi söönud lapse soov,
+et järsku saaks jäätisetordi. Neile, kelle töö on inimesi jälitada,
+meeldiks loomulikult, kui see hõlbus oleks. Seadused paraku pole
+tehtud politsei pärast, vaid politsei on tehtud seaduste pärast.
+<p>
+
+
+<p>
+<b>1. Sotsiaalselt ebareaalne</b>
+<p>
+Oletame, et rakendustes on politseile tagauks (variandis A on tegemist kaugligipääsu uksega seadmetesse,
+variandis B võtme nõrgendamisega ja võtmeosa deponeerimisega võimude käes).
+Oletame, et Eesti politsei kasutab seda hoolsalt. Tagaukse koodid ei leki iial GRU, FSB, CIA
+ega mistahes põneva teenistuse kätte, samuti ei väärkasutata neid maja sees...
+<p>
+( päriselus paraku lekivad ning väärkasutatakse )
+<p>
+Paraku on omale tagaukse küsinud ka USA, Hiina, India, Venemaa, Zimbabwe, Myanmar, Palau,
+Tuvalu, Marshalli saared, Mikroneesia ja need viis politseinikku, kes Islandil sides nuhivad.
+Kas popis rakenduses on tagauksi terve kari, või on loogiline vastus null?
+Kas riigid lepivad kokku, et sõbralikult käsikäes nuhkida,
+või sunnivad arendajatele peale tagauksi <i>"nagu jumal juhatab ja jõudu jätkub"</i>?
+<p>
+Kui lepivad kokku, siis lubage muiata. See tähendaks, et kogu maailma kasutajad on palja tagumikuga
+ja eriti just totalitaarsed riigid ujuvad infos, mille alusel inimesi taga kiusata.
+<p>
+Kui ei lepi kokku, siis Eesti suurusele riigile visataks arendaja poolt keskmine sõrm üles.
+<i>"Keelake siis ära"</i> oleks levinud vastus. Kui aga suured (USA) suudaks
+end arendajatele peale suruda, rikuks nemad kõigi turvalisuse võrgus.
+Teised suured ei jätaks nende tagauksi kasutamata. Hetkel seda ei toimu,
+kuna <a target=_blank href="https://en.wikipedia.org/wiki/Crypto_wars">"krüptosõdade"</a> tulemus oli nullseis
+ja mõne tegelase pikast proovimisest hoolimata ei nõua USA tagauksi.
+<p>
+
+
+
+<p>
+<b>2. Tehniliselt mõttetu</b>
+<p>
+Kui leidub rakendusi, mille arendajad lasevad riikidel endale tagauksi peale suruda,
+siis leidub ka rakendusi, mille arendajad ei lase.
+<p>
+Eksisteerivad asjad nagu GPG, TOR ja I2P... maailm on täis tugeva krüptoga varustatud softi,
+mis laseb mitte ainult turvaliselt suhelda, vaid kohati ka tugeva anonüümsuse loori taga olla.
+Tegu on eranditult vaba tarkvaraga, mille lähtekoodi kasutaja muuta saab.
+Mõne programmi (I2P) puhul on isegi arendajad traditsiooniliselt anonüümsed,
+et neile survet avaldada raskem oleks. Uskuge mind, ma siseinfo najal ütlen,
+et nad ei hakka tegema koostööd väikeriigiga, mis paistab olevat
+reha otsa jooksnud ja vopsust ajunikastuse saanud.
+<p>
+Et säärane piirang jõustada, tuleb minna totalitaarseks: keelata vaba tarkvara
+või backdoor'ida opsüsteemid ja keelata muude paigaldamine.
+Ilmselt tuleks keelata ka Raspberry Pi ning Arduino import.
+<p>
+
+<b>3. Matemaatiliselt mõttetu</b>
+<p>
+Kes soovib andmeid šifreerida, saab iga kell kasutada ühekordset võtmejada
+(<a target=_blank href="https://en.wikipedia.org/wiki/One_time_pad">OTP</a>). 
+Ta peab vestluse teise osapoolega turvaliselt kohtuma, vahetama nummerdatud blokid juhuarvusid ja kokku leppima reegli,
+mille alusel järgmine juhuarvude blokk valitakse, näiteks "eelmist on proovitud kasutada".
+Seejärel, et saata sõnumit, peab ta oskama jäägiga liita ning lahutada, teisendades saadetava sõnumi iga märk
+kokkulepitud juhuarvude bloki vastaval positsioonil oleva märgiga. Krüptogrammi edastamise eel
+peab ta ütlema teisele poolele, mis numbriga võtmeblokki kasutab.
+<p>
+Eeldusel, et võtmematerjali ei korduvkasutata, on side täiuslikult turvaline.
+Kui oskad koolimatemaatikat, võid mistahes rakenduse kaudu, mis lubab edastada tähti,
+saata offline'is (väljaspool iga tagaukse mõju) valmis krüptitud sõnumi,
+mille teine pool krüptib lahti offline'is (väljaspool iga tagaukse mõju).
+OTP on lisaks täiuslikult turvaline, eeldusel et võtmetega õigesti ümber käiakse.
+<p>
+Krüpto vastased meetmed on olemuselt tsirkus, ja nende jõustajad on eriline sort kloune.
+Matemaatikat ei saa tühistada. Et keelata krüpto, tuleks alustada täringute
+ja müntide keelamisega, et inimesed ei saaks juhuarvusid. :)
+<p>
+
+<p>
+<b>4. Sidevahendite tsiviilkaitse seisukohalt ohtlik</b>
+<p>
+Oletame, et mõttetus on moes ja maailm on täis siderakendusi, mis on täis tagauksi.
+<p>
+<ul>
+<li>tagauste isandad ei vaevu neid hooldada, tulemusena on maailm täis turvanõrkusi
+<li>krüptoalgoritmid nõrgenevad, mõni murtakse katki, osadel puudub uuendamistee
+<li>paljud seadmed tootmisest maas: puudub firma, mis tagaust turvalisena hoiaks
+<li>politseiametid lekivad huvitatud suurriikide luureteenistuste suunas, tagauksed satuvad nuhkide vahel "ristkasutusse"
+</ul>
+<p>
+Põhimõtteliselt, tegemist on lollusega: miks peaks ühiskond muutma end pealt kuulatavaks ja häkitavaks, et kohalikul riigil mugav oleks?
+<p>
+
+
+<p>
+<b>5. Mis puudutab kõnekaarte</b>
+<p>
+
+Kõnekaardid on mugavad, et lapsed ei saaks telefoniga meeletuid arveid põhjustada
+ning välismaalastele, kes on Eestis ajutiselt ning ei soovi lepingut.
+<p>
+Mugavus on asi, mida riigid on suutnud edukalt likvideerida kontrolli saavutamise nimel.
+Kui riik kaotab kõnekaardid, sest ametkondade mugavus on inimeste omast tähtsam,
+on see nahhaalsuse akt, aga ta kindlasti suudab seda.
+<p>
+Vastuseks sobib, et krüptoanarhistid teevad rakendused ja seadmed,
+et suhelda ilma mobiilvõrgu abita, oma loodud võrgus, kus terminalseade ei vaja
+operaatorit ega SIM-i.
+<p>

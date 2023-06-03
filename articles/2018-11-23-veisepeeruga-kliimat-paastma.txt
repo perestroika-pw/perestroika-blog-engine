@@ -1,0 +1,60 @@
+Veisepeeruga kliimat päästma
+2018-11-23
+Finrod F
+kliimamuutus, metaan, ausõna, päriselt
+
+<p>
+Käesolev lugu on inspireeritud ühest Ameerika Revolutsiooni aegsest ajakirjanikust,
+kes arvutas välja, kui palju UK laevastik maksab ja kui ruttu saaks sarnase laevastiku,
+kui UK-le kõik maksud maksmata jätta. :)
+<p>
+Arvutuse teema (metaan), on tänapäeval vaat et olulisemgi, kui UK laevastik.
+MIT Technology Review kirjutab sellest,
+<a target=_blank href="https://www.technologyreview.com/s/612452/how-seaweed-could-shrink-livestocks-global-carbon-hoofprint/">
+mis retseptiga saab vähendada veiste metaanitootmist 60%</a>.
+Selleks ei tule teha enamat, kui lisada veiste söödale
+üks sajandik merevetikat <a target=_blank href="https://en.wikipedia.org/wiki/Asparagopsis_taxiformis">Asparagopsis taxiformis</a>.
+Et hinnata, kas nende soovitus väärib levitamist, kuulame ära statistikud ja teeme paar arvutust,
+sest meiesugusel kõrgelt arenenud ahvil on kombekas pruukida matemaatika abi. :)
+<p>
+Statistika näitab, et kogu maailma põllumajandus
+heidab aastas keskkonda 7 gigatonni (miljardit tonni) metaani.
+Seedimise käigus eraldub sellest ca. 40%, seega ümarguselt 2.8 gigatonni.
+Mõõtkava pole eriline üllatus, arvestades et biomassi järgi <a target=_blank href="https://www.livekindly.co/60-of-all-mammals-on-earth-are-livestock-says-new-study/">
+60% Maa imetajatest loomadest on põllumajandusloomad</a> (ülejäänutest 36% on inimesed ja 4% on metsloomad).
+<p>
+Täheldades <a target=_blank href="https://en.wikipedia.org/wiki/Biomass_(ecology)">Wikipedia andmete põhjal</a>,
+et veiste biomass on 520 miljonit tonni ja lammaste oma pelgalt 105 miljonit tonni,
+eeldame tuimalt, et vähemalt 50% kõigist põllumajandusloomadest on veised,
+seega oletame globaalseks veisepeeru saldoks 2.8 / 2 = 1.4 gigatonni.
+<p>
+Metaan on <a target=_blank href="https://www.epa.gov/ghgemissions/overview-greenhouse-gases#methane">USA keskkonnaagentuuri</a>
+andmeil 25 korda tugevam kasvuhoonegaas, kui CO2 - seega omab 1.4 gigatonni metaani
+võrdset mõju 35 gigatonni süsihappegaasiga.
+<p>
+Võrdluseks, kasutades andmeid saidilt <a target=_blank href="http://www.kliimamuutused.ee/kliimamuutuste-kkk/eesti-jalajalg">kliimamuutused.ee</a>
+on keskmise Eesti elaniku tegude ja toimetuste aastane jalajälg 14 tonni CO2.
+Sealjuures oleme Euroopa mastaabis parajad reod, eeskujulik säästuäss
+lätlane saab tänu põlevkivi puudumisele hakkama 3.8 tonniga aastas!
+Oletame selle põhjal, et kogu Eesti emiteerib aastas ca. 18 megatonni (miljonit tonni) süsihappegaasi.
+<p>
+Nüüd aga tagasi maailma ja veiste kallale. :) Arvutame välja,
+kui mitu korda on kogu maailma veisepeer kogu Eesti elanikest võimsam saastaja. :)
+Tehe on lihtne, kuigi nulle palju: globaalne veisepeer on võrdne 35 000 000 000 / 18 000 000 = 1944 Eestiga!
+Tegemist on ilmselgelt päris suure kogusega, järsku seepärast need veganad räägivadki,
+et sööme vähem liha ja piimatooteid! :)
+<p>
+Edasi arvutame, kui mitme Eesti jagu suudaks maailm emiteerimata
+jätta kasvuhoonegaase, kui <b>kõik see veis</b> üheskoos 60% vähem peeretaks?
+Tehe pole kah keeruline: 1944 - (1944 * 0.6) = 777 Eesti jagu.
+<p>
+Seniks kuni Maaülikooli ja Tartu Ülikooli teadlased uurivad,
+mis kohaliku vetikaga <i>Asparagopsis taxiformis</i> asendada saaks,
+võime rahustada end teadmisega, et see vetikas on
+kosmopoliitne soojade merede liik - seda saab kasvatada kõikjal,
+kus merevesi on soe.
+<p>
+Eeldame, et Rohelised näppavad meie idee ja jooksevad sellega
+Riigikoguni välja, tänutäheks ootame kahte krooni!. :)
+<p>
+

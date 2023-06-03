@@ -1,0 +1,46 @@
+Me sooviks lisada küsimärgi
+2018-12-03
+Jaan Veski
+sodimine, anarhia märk, ristimärk, küsimärk
+
+<p>
+<a target=_blank href="http://www.delfi.ee/news/paevauudised/krimi/fotod-terve-linn-soditud-linnavalitsuse-kallal-vandaalitsejad-on-joudnud-ka-kumnetesse-teistesse-paikadesse-sudalinnas?id=84630951">Delfi</a> ja <a target=_blank href="https://www.ohtuleht.ee/909687/piltuudis-keegi-on-oosel-tallinna-linnavalitsuse-uksed-ara-sodinud">Õhtuleht</a> kirjutavad, et keegi läks Kesklinnas väga "võimsaks" ja
+sodis kõiksugu aknad täis anarhia märke ja ristimärke.
+<p>
+Ärge meilt küsige, me oleme sama üllatunud!
+Näeme Delfi fotodelt, et soditud on paarikaupa anarhia märki ja pikema alumise joonega
+ristimärki. Me ei saa sõnumist aru, kas sõnaraamat kah soditi?
+<p>
+Anarhia märk ja ristimärk võivad äärmisel juhul tähendada
+"kristlik anarhism", mis on nii kuradi haruldane (vabandust, kristlikud kolleegid),
+et seda Eestis vaevalt esineb.
+<p>
+Tõenäolisem on, et võimsaks ära läinud isik soovis edastada sõnumit "surm anarhiale"
+või midagi muud primitiivset. Sellisel juhul tuleks tegijat otsida
+poliitilise kompassi paremast ülanurgast, kus nii kombeks on. :)
+<p>
+Perestroika ei mõista sealjuures hukka graffiti joonistamist,
+pelgalt suvalist sodimist. Meie lemmikumad graffitikunsti teosed asusid ammusel ajal
+Suur-Sõjamäe 37 kandis, endise Divigateli tehase valmis ehitamata jäänud joomaravila aladel
+(ärge enam minge, varisemisohtlik). Seal oli meeletu kaunis
+traktori graffiti, samuti joonistus sellest, kuidas
+preestri riietes öökull pakub papi riietes krokodillile
+plaskust kanget jooki, kusjuures taustal jooksevad ringiratast
+ilma ülakehata tagumikud. :P
+<p>
+Võtame seisukoha, et äge ja mõtlemapanev graffiti
+selleks sobivas kohas on hea, aga suvaliselt täägimine
+on... nii suvaline. Välipropaganda huvilisi suuname uurima,
+kuidas <a target=_blank href="promo.html#kohuke">meie kohukest teeme</a>.
+Selleks, et ära kuulatud saada, ei pea tingimata sodima. :)
+<p>
+Et riigimiilits anarhistliku miilitsa ära tunneks, kui meie midagi
+sodinud oleme, soovime lisada näited selle kohta, millist graffiti stiili
+eelistame. :)
+<p>
+Näide A: jänes joonistab anarhia märki<br>
+<img class="sidebar-image" src="./pics/janes-joonistab-anarhia-marki.jpg">
+<p>
+Näide B: viikingid<br>
+<img class="sidebar-image" src="./pics/viikingid.jpg">
+<p>

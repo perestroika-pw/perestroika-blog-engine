@@ -1,0 +1,85 @@
+Värske uuring Wuhani patsientidest
+2020-02-01
+perestroika.pw
+koroonaviirus, hiina, lancet
+
+
+<div class=illustration-image>
+<a target=_blank href="https://en.wikipedia.org/wiki/File:3D_medical_animation_coronavirus_structure.jpg">
+<img src="./pics/2020-02-01-ncov.jpg"><br>
+Uus koroonaviirus illustreeritult<br>
+Allikas: Wikipedia<br>
+Litsents: CC-BY-SA 4.0 international
+</a>
+</div>
+<p>
+
+
+
+<p>
+Paar päeva tagasi avaldas The Lancet <a target=_blank href="https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930211-7">
+värske uuringu Wuhani patsientide käekäigu kohta</a>. Seekordne uuring käsitleb 99 patsienti,
+kes võeti ravile perioodil 1. jaanuarist 20. jaanuarini.
+<p>
+Ajakirjanduslikus formaadis jutustavad tulemustest <a target=_blank href="https://www.bbc.com/news/health-51214864">BBC</a>
+ning <a target=_blank href="https://www.hs.fi/ulkomaat/art-2000006391240.html">Helsingin Sanomat</a>.
+<p>
+Nendest 49% olid kokku puutunud Huanani mereandide turuga Wuhani linnas. Patsientide keskmine iga oli 55.5 aastat,
+mis viitab, et valimist on välja jäänud noored, kes tõenäoliselt põdesid kodus või kõndisid tänaval.
+Valimis on 67 meest ja 32 naist, mis viitab, et viiruse mõju on sooliselt erinev
+ja kas naiste ainevahetuslikud erinevusd või erinev tervisekäitumine vähendab nakatumist.
+Patsientidest 51% põdesid juba kroonilisi haigusi.
+<p>
+Kliinilises pildis olid põhilised palavik (83%), köha (82%), hingamisraskusd (31%), lihasvalud (11%),
+meeltesegadus (9%), peavalu (8%), kurguvalu (5%) ja mõned vähem levinud sümptomid.
+Tähelepanu väärib, et väga vähestel esines nohu, mis aitab eristada
+koroonaviiruse kahtlust muude tõbede kahtlusest.
+<p>
+Kokku 75% patsientidest sai kahepoolse kopsupõletiku, 14% kopsupildis oli näha
+mitmeid "klaasipuru mustriga" läbipaistmatusi. ARDS tekkis 17% hulgas
+ning 11% tervis halvenes nii tugevalt, et nad surid.
+Suremus oli korrelatsioonis vanuse ja varasemate haiguste olemasoluga.
+<p>
+Ka see uuring ei võimalda arvutada tegelikku suremust, aga oletades,
+et kergete sümptomitega põdejaid oli vähemalt sama palju kui raskeid juhtumeid,
+ja välismaal, kus eeldatavasti on jälgimisel pea 100% nakatunutest,
+pole veel keegi surnud, ei saa suremus olla oluliselt üle 5%.
+<p>
+Mujal uudistes kirjutab The Guardiani loos
+<a target=_blank href="https://www.theguardian.com/world/2020/jan/31/our-face-mask-future-do-they-really-help-beat-flu-coronavirus-and-pollution">"Our face mask future"</a> Amy Fleming sellest, kas näomaskidest on kasu või on tegemist riskivähendamise rituaali või moega.
+Ta tõdeb, et tegemist on nii praktilise abinõu kui moe ja rituaaliga,
+mil on kandjale mõningane kaitse, aga ka hoolsust suurendav mõju.
+<p>
+Kasulikkuse osas toetub ta Catherine Makison Booth'i uuringutele, kes on netis laineid löönud teadustööga
+<a target=_blank href="https://www.ncbi.nlm.nih.gov/pubmed/30797885">"Potential distribution of norovirus after simulated vomiting"</a>
+(noroviiruse tõenäoline jaotus simuleeritud oksendamise järel), mille jaoks ehitati kuulus
+<a target=_blank href="https://www.youtube.com/watch?v=sLDSNvQjXe8">okserobot Larry [video]</a>
+ja tõestati põhiliselt seda, et viiruse tõrjeks on tavaline koristamine haledalt ebapiisav.
+<p>
+Tema hilisem uuring nimega <a target=_blank href="https://www.ncbi.nlm.nih.gov/pubmed/23498357">"Effectiveness of surgical masks against influenza bioaerosols"</a>
+(kirurgiliste maskide efektiivsus gripi bioaerosoolide vastu) hindas maskide tõhusust
+hingava mannekeeniga ja tõendas, et kirurgimask vähendab sisse hingatavat aerosoolide doosi
+vahemikus 1.1 kuni 55 korda (keskmiselt aga 6 korda), ning et kirurgimaskide osas puuduvad
+mõistlikud standardid - neid tehaksegi täiesti kasutuid ja päris korralikke.
+FFP maskid vähendasid sissehingatud bioaerosoolide kogust kuni 100 korda.
+<p>
+Teises loos räägib The Guardian <a target=_blank href="https://www.theguardian.com/world/2020/feb/01/researchers-make-strides-in-race-to-create-coronavirus-vaccine">
+püüdlustest luua vaktsiin</a> ning mainib ära, et kahjuks oli ettevõtete huvi
+omal ajal SARS-vaktsiini loomise vastu ümargune null.
+Lühidalt üldistades: ootamatu pandeemia ennetamine pole tulus äri,
+ja seda kasumit taotlevate ettevõtete õlgadele jätta oleks rumalus.
+Pandeemia, mis kunagi ei juhtu, on inimkonnale parim, aga vaktsiini valmistajal
+tekib sellega majanduslikke raskusi. Vaja on maksurahast hästi rahastatavaid
+asutusi, mis eeltöö ära teevad.
+<p>
+Viiruse päritolu osas: pärast hiinlaste poolt viiruse genoomi avaldamist
+on <a target=_blank href="https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)">Wikipedia andmetel</a>
+leitud, et sarnasus nahkhiirte koroonaviirustega on 96%.
+Tõenäoliselt võinuks keegi seega suitsutatud nahkhiired
+või nahkhiiresupi söömata jätta, ja ajutiselt ongi Hiina valitsus
+metsloomadega turul kauplemise keelanud. Loodame,
+et keeld saab püsivaks, las hiired lendavad metsas.
+<p>
+Kulinaarne avantürism on inimkonnale ka varem häda kaela toonud,
+kuna metsloomade söömisega seostatakse muidki haigusi.
+<p>

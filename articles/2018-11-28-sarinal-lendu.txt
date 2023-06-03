@@ -1,0 +1,29 @@
+Särinal lendu
+2018-11-27
+Finrod F
+tehnika, kõrgepinge, ioontuul, lennuk
+
+<p>
+<a target=_blank href="https://www.theguardian.com/science/2018/nov/21/first-ever-plane-with-no-moving-parts-takes-flight">
+The Guardian kirjutab mudellennukist</a>, mille osas tuleb julgelt öelda,
+et "ärge kodus järele tehke". Nimelt on tõukejõu allikaks ioontuul,
+mida tekitab 40-kilovoldine pingeallikas. Säärane mänguasi tegi prooviks
+paarikümne meetrise lennu.
+<p>
+Kui aga teil on aga käepärast hästi varustatud labor ettevaatlike teadlastega,
+siis järele tegemiseks vajalikud juhised leiate <a target=_blank href="https://www.nature.com/articles/s41586-018-0707-9">ajakirjast Nature</a>,
+kus need avaldas MIT aeronautika osakonna rahvas.
+<p>
+Lennuki prototüübis on tiiva esiotsa ees elektrood, mida lennuki liitiumakust
+toidetava pingemuunduri kaudu pingestatakse tiiva suhtes 40 000 V pingega.
+Võimust kulub sealjuures 600 vatti. See on piisav, et ioniseerida
+õhu molekule, ning laengu omandanud õhuosakesed viskuvad seejärel tiiva suunas
+elektrivälja toimel, põrgates tee peal ka neutraalsete õhuosakestega
+ja loovutades oma energia. Õhk voolab lennuki tagaotsa suunas,
+lennuk aga kiirendub õhu suhtes.
+<p>
+Lõpptulemuseks on ilma liikuvate osadeta veojõu allikas, mis on täielikult elektriline,
+peaaegu vaikne, ning mille veojõu ja võimsuse suhe on võrreldav
+tavapäraste reaktiivmootoritega. Mis vihmase ilmaga lendamisel juhtub,
+ärge meilt küsige! :P
+<p>

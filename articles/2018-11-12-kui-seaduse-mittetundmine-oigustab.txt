@@ -1,0 +1,55 @@
+Kui seaduse mittetundmine õigustab
+2018-11-12
+Finrod F
+küber, haldus, programmeerimine
+
+<p>
+Agu Leinfeld kirjutab ERR-is <a target=_blank href="https://www.err.ee/875979/agu-leinfeld-nii-teeme-eesti-oigusruumi-arusaadavaks-ja-selle-mojud-moistetavaks">
+mõistliku jutu</a>, mille südamik on see: kui parlament tegeleks programmeerimisega
+(millega ta ju tegeleb, lihtsalt programmi täidavad inimesed), siis parlamendi töö kvaliteet
+ja tulemuseks oleva puntra haldamise võimalused oleks nii nirud,
+et praeguse parlamendi (ja kõik eelnevad) laseks tööandja lihtsalt lahti.
+<p>
+Võtame kasvõi meie <a target=_blank href="2018-11-09-kateljooksja-vs-helkurikontrolor.html">hiljuti näritud</a> Liiklusseaduse.
+Kui jalakäija helkuri kandmise kohustus ei oleks defineeritud ülimalt laialivalguva
+mõiste "tee" suhtes, vaid mõiste oleks näiteks "sõidutee", "valgustamata tee" või
+"ilma kõnniteeta tee", oleks tulemus mõistuspärane. Hetkel võib teid
+trahvida helkuri puudumise pärast pargis.
+<p>
+Teiseks mõtteharjutuseks sobib kinnisvara: maatükki saab nimetada
+krundiks, katastriüksuseks, kinnistuks, kõlvikuks, lihtsalt maatükiks
+ja ilmselt veel mitut moodi. Selle hindamine, et mis juhtub,
+kui me ühes kohas termini ära muudame, ei ole imelihtne.
+Programmeerijale ütleb sel puhul kompailer, et "kuule,
+sul on defineerimata muutujad, stopp". Riigikogu toodangut
+kontrollivad vaid inimesed, ja märkavad vaid seda, mis on suurelt näha.
+Ülejäänud vead pääsevad läbi ja kummitavad meie igapäeva elus.
+<p>
+Kolmandaks võime võtta klassika: Omandireformi Aluste Seadus.
+Kiiruga tehtud seadus tõi kaasa kahju tegemise tuhandetele inimestele,
+samal ajal kui ülejäänud seadustikus puudus mistahes arusaam
+"õiguspäraselt tehtud kahju" hüvitamise kohta. Riigivastutuse Seadus
+tuli kümme aastat hiljem. Tulemuseks suur ebaõiglus ja väga palju inimesi,
+kes riigist midagi head ei saa arvata.
+<p>
+Agu Leinfeld soovitab: "Loomulikult on oluline suund laiem riigivalitsemise
+reform vähendamaks bürokraatiat ja piiramaks oluliselt seadusloomet."
+Oleme temaga ainult 100 protsenti nõus.
+<p>
+Täiendavalt pakub ta aga välja: "Eesti võiks olla esimene riik maailmas,
+kes oma õigusliku ruumi kirjeldamise allutab reeglitele,
+mis võimaldavad seoseid visualiseerida, mõjusid mudelite põhjal hinnata
+ning põhiterminid erinevate seaduste vahel kooskõlla viia."
+<p>
+Oleme nõus. Reeglite tegemise töös on oluline täita ka ise reegleid,
+muidu on tulemuseks pudru ja kapsad, mida kohus päevast päeva
+nämmutama peab. Kohtus käimine on kallis, kulutab närve,
+ning ei vii alati õiglase lahenduseni (sellest teavad kah rääkida
+endised sundüürnikud).
+<p>
+Vanasõna, et "seaduse mittetundmine ei õigusta selle mitte täitmist",
+on sobilik ajastule, kus seadusi oli vähe. Olukorras,
+kus inimesel kuluks seadustiku otsast otsani läbi lugemiseks
+kogu tema elu, ei ole säärastel vanasõnadel kohta.
+Seadusi tuleb lihtsustada ja nende mõju hoomatavaks teha.
+</p>

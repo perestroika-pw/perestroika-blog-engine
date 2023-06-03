@@ -1,0 +1,145 @@
+Müüa loožikoht info-operatsioonile
+2018-12-29
+Jaan Veski
+propaganda, valimised, sekkumine, keelebarjäär
+
+<p>
+Kõigepealt lugesin mitu nädalat tagasi <a target=_blank href="https://www.propastop.org/2018/12/19/tahelepanu-narvast-levib-provokatiivne-valeuudis/">
+Propastopi blogi artiklit</a> "Narvast levib provokatiivne valeuudis". Täheldatud uudis rääkis Lasnamäel toimunud ÜRO rändeleppe teemalisest kaklusest
+ja oli dateeritud päevale, mil Tallinnas lund ei olnud... kaunilt lavastatud fotol aga polnud näha inimeste nägusid, ning... lumi oli maas. :)
+Teemamärgendiks oli valitud "ESTexitEU".
+<p>
+Täna kirjutas Postimees sama teemamärgisega puutuvast Facebooki grupist loo
+<a target=_blank href="https://arvamus.postimees.ee/6486770/kas-kevin-oskar-ja-oksana-tahavad-mojutada-meie-valimisi">
+"Kas Kevin, Oskar ja Oksana tahavad mõjutada meie valimisi?"</a>. Kuna Postimehel on näpud rahakoti põhjas, jäi artikkel esimest korda lugemata,
+aga kuna õhtul Redditis räägiti sellest, leidsin militaar.net'i foorumist üles teema, kus keegi oli viitsinud seda
+<a target=_blank href="http://www.militaar.net/phpBB2/viewtopic.php?p=569554#p569554">täies mahus tsiteerida</a>.
+<p>
+Lugu on siis säärane, et üheskoos peavad Facebooki gruppi "estonersnews" kasutajad
+Kevin Lepik, Daniil Männik, Daniel Kaasik (kõik samast metsamassiivist?) ning Oskar Kallas, Henri Ilves,
+Juri Vilberg, Oksana Söderholm ja Ivan Vasiliev. Facebookis ei tähenda nimi muidugi midagi,
+mu kolleeg Finrod F on seal oma nimedega skandaale põhjustanud. :P
+<p>
+Grupi logol näeb päkapikumütsiga president Kaljulaidu kuuse all,
+märkideta politseimütsis musta meest, taustakompositsiooniks
+on lumehelbekesed, saaniga kihutav jõuluvana, pooleldi läbipaistvad
+NATO ja Eesti lipp, samuti Jüri Ratas.
+<p>
+Grupi eripära näib olevat, et valdavalt jagatakse teiste artikleid.
+Võib üldistada, et grupis originaalsisu ei looda, kuigi paar meemi on.
+Aeg on tsiteerida Propastopi artiklit:
+<p>
+"Ühtegi neist kaheksast "Estonersi" administraatorist ei eksisteerinud Facebookis veel neli kuud tagasi. Oksana Söderholmi (kelle sõprade nimekirja kuulub vähemalt üks riigikogu liige) Facebooki konto loodi tõenäoliselt tänavu 5. septembril. Päev hiljem tehti Henri Ilvese ja Oskar Kallase konto ning sellest omakorda mõni päev hiljem ülejäänute omad. Ivan Vasiliev, üks sagedasemaid postitajaid "Estonersi" lehel, tekkis Facebooki maailma 9. septembril, ning peagi märkis ta ennast suhtes olevaks Pärnust pärit Sandra Luigega – kelle Facebooki elu tärkas kolm päeva varem."
+<p>
+Info-operatsioonil on hetkel üks puudujääk: napib eesti keele oskusega administraatoreid.
+Nimelt on eestikeelse nimega kasutajatel suuri probleeme Google Translate'i
+väljundist erinevate sõnade tootmisega. Näiteks üritab Kevin Lepik
+üsna selgelt öelda "ты прав" (sul on õigus), aga välja tuleb "õige oled".
+<p>
+Oskaril seevastu õnnestus leida meedia-vastane karikatuur saidilt "rahvuslane.ee".
+Ent elu pole lihtne: kuidas võis ta teada, et "tõe mahalaskjate" selgadel,
+uudistekanalite logode vahel on toonase võimupartei Reformierakonna logo,
+kes praegu võimul ega üldse asjakohane pole? :D
+<p>
+Rahvusvahelised info-operatsioonid on peen kunst,
+mis nõuab kultuuriliselt tundlikku närvi. Algajal juhtub mõndagi.
+Nende algajate juhtumisi on teil nüüd võimalik live'is jälgida.
+Kui grupi liikmete arv tuhandetesse hakkab jõudma,
+siis teate, et neil hakkas lõpuks õnnestuma, ja olete näinud,
+kuidas manipulatsioon päriselt käib. Kaks eurot
+võite saata meie asemel Propastopile. :)
+<p>
+<img class=sidebar-image src="./pics/kevin_lepik_oige_oled.png">
+<p>
+Alljärgnevas püüan uudishimust klassifitseerida grupi postituste sisu.
+Analüüsiga läheb veidi aega, mistõttu käesolev artikkel saab avaldatud poolikuna ja täieneb homme.
+<p>
+<table>
+<tr>
+<td>Autor</td>
+<td>Teema</td>
+<td>Allikas</td>
+<td>Klass</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>ilutulestikud</td>
+<td>rus.postimees.ee</td>
+<td>igav, täidis</td>
+</tr>
+<tr>
+<td>Oksana</td>
+<td>turism, kaliningrad</td>
+<td>lv.sputnik.ee</td>
+<td>igav, täidis, allikareklaam?</td>
+</tr>
+<tr>
+<td>Oksana</td>
+<td>ingrid rüütel, kasvav venekeelne kogukond</td>
+<td>rus.delfi.ee</td>
+<td>vastuoluline, faktiprobleemidega allikas, pro-EKRE</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>sven mikser, rändeleppe vastasus</td>
+<td>ee.sputniknews.ru</td>
+<td>vastuoluline, teemat hoidev, faktiline, allikareklaam, neutr-SDE</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>ilutulestikud, kulud</td>
+<td>vecherka.ee (õhtuleht)</td>
+<td>igav, mainstream, täidis</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>ratas ja juncker / kaks geimeest</td>
+<td>kopeeritud fotod, omaloodud meem</td>
+<td>provotseeriv, suunav, väljamõeldud, anti-KESK</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>nato, kaitsekulutused, ohu puudumine</td>
+<td>ee.sputniknews.ru</td>
+<td>igav, suunav, sidestream, allikareklaam</td>
+</tr>
+<tr>
+<td>Kevin</td>
+<td>oleviste, kodutud, omad vajavad abi (ränne)</td>
+<td>delfi.ee</td>
+<td>igav, suunav, jamad eesti keelega</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>pühad</td>
+<td>rus.delfi.ee</td>
+<td>igav, mainstream, täidis</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>ilutulestik, meem, nali</td>
+<td>kopeeritud foto, omaloodud meem</td>
+<td>naljakas, täidis</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>mürakarud, karikatuur, kopeeritud muutmata</td>
+<td>postimees.ee</td>
+<td>naljakas, täidis</td>
+</tr>
+<tr>
+<td>Oskar</td>
+<td>karikatuur, tõe mahalaskmine</td>
+<td>näpatud rahvuslane.ee 2016/05 karikatuur</td>
+<td>suunav, usaldamatus meedia vastu, vale erakonna logo</td>
+</tr>
+</table>
+<p>
+Ebapiisavate andmete pealt tehtud tööhüpotees on minul hetkel see,
+et kampaania struktuur on odav koopia USA valimiste mõjutamise kampaaniast.
+Oletan, et lõppeesmärk saab olema de-motiveerida venekeelset valijat
+ja radikaliseerida eestikeelset valijat. Oletan, et tšempioniks
+(champion: rüütel, kes osaleb kahevõitluses enne kui armeed lahingu peavad)
+on antud juhul valitud EKRE. Huvitav, mida nad teadmisega peale hakkavad?
+<p>
+

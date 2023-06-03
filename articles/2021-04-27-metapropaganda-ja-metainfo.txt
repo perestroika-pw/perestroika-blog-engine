@@ -1,0 +1,128 @@
+Metapropaganda ja metainfo
+2021-04-27
+perestroika.pw
+poliitika, häma, jälgimisühiskond
+
+
+<div class=illustration-image>
+<img src="./pics/2021-04-27-rip.png"><br>
+Õigusvastase õigusakti koht on prügikastis.<br>
+Loe teemast lähemalt leheküljel:<br>
+<a target=_blank href="https://isoc.ee/metadata">https://isoc.ee/metadata</a>
+</div>
+
+<p>
+<b>I: reaalsuskontroll Brüsselist</b>
+<p>
+Riigikogu kinnitab peagi liitumise EL taasterahastuga. Tõenäoliselt vajutavad rohelist nuppu kõik parteid peale ühe, mis on väljendanud soovi liidust lahkuda. Ilmselt maailma suunas, kus Wigla Show järel <a target=_blank href="https://et.wikipedia.org/wiki/Margavahetuspaanika">tormati</a> sajamargaseid müüma. Kuna partei lubab omalegi sama värvikaid etendusi, toome siin lühidalt igava tõe.
+<p>
+<b>Euroopa ja põhimõtted</b>
+<p>
+EL põhineb arusaamal, et liikmed ei soovi enam omavahel sõdida. Euroopa on ajalooliselt olnud verine manner, pikim teadaolev rahu kattub liiduga. Teiseks, üksi on Euroopa maad kääbused - Hiinas elab 2 korda rohkem inimesi kui Euroopas, Indias kah, Venemaa on mitme Euroopa suurune ala.
+<p>
+Liit on lahendus, mis lubab jääda omamoodi, aga tegutseda suurte seltsis blokina, mida ühendavad väärtused (demokraatia, õigusriik, koostöö ja vabadused) ning muidugi praktilised huvid. EL pole föderatsioon, ega arene selleks. Föderatsioonis (näiteks USA) on keskvalitsusel sõjavägi ja maksuamet, politsei ja vanglad.
+<p>
+<b>Euroopa ja solidaarsus</b>
+<p>
+Koroonakriisi ajal on pea kõik riigid rakendanud Keynes'i majanduspoliitikat, kus avalik võim töötab majandustsükli vastu, leevendab kukkumist (kasvõi laenuga), et headel aegadel reservid taastada. Eesti on teinud sama.
+<p>
+Kapitalituru loogika on aga äraspidine: hättasattunu laenukulu on kõrge. Kui keegi satub esmalt hätta ja soovib siis laenu, tõstab nähtamatu käsi keskmise sõrme. Laen on odav, kui sul teda vaja pole.
+<p>
+Kui EL soovib harrastada Keynes'i poliitikat, vajab ta sekkumiseks raha. Trükipress on tabu, keskpank peab tagama euro usaldusväärsuse maailmas. Lahendus on laen: ühiste garantiidega saab soodsa laenu, et päästa hättajäänud riike ja anda tõuge konkurentsivõime kasvu / kliimakriisi peatamise suunas. Ekslik on arvata, et Komisjon võib nüüd ise laenata: <b>tegu on ühekordse volitusega.</b>
+<p>
+<b>Euroopa ja maksud</b>
+<p>
+<table class=illustration-image>
+<tr>
+<td>Omavahendite klass</td>
+<td>Allikas</td>
+<td>Osakaal</td>
+<td>Algus</td>
+</tr>
+<tr>
+<td>Traditsioonilised</td>
+<td>suhkrumaks, toll</td>
+<td>10%</td>
+<td>1970</td>
+</tr>
+<tr>
+<td>Käibemaksupõhised</td>
+<td>protsent käibemaksust</td>
+<td>10%</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>Kogurahvatulu põhised</td>
+<td>protsent GDP-st</td>
+<td>70%</td>
+<td>1988</td>
+</tr>
+<tr>
+<td>Plastpakendijäätmete...</td>
+<td>prügisse läinud massilt</td>
+<td>4%</td>
+<td>2021</td>
+</tr>
+</table>
+<p>
+Poliitik H.P. on <a target=blank href="https://www.err.ee/1608186685/ekre-asus-700-muudatusettepanekuga-euroopa-taasterahastut-blokeerima">öelnud</a>, et Euroopa Liit ei või kehtestada makse. <b>Nii käib küsimusest mööda hiilimine.</b> EL tulusid kirjeldab Euroopa Parlamendi <a target=_blank href="https://www.europarl.europa.eu/factsheets/et/sheet/27/liidu-tulud">teabeleht "Liidu tulud"</a>. EL ei või makse kehtestada, aga liikmesriikide nõusolekul on liitu maksudest rahastatud 50 aastat:
+<p>
+<b>Traditsioonilised omavahendid</b> on maksud, millest osa läheb EL kassasse. Teabeleht ütleb: <i>"traditsioonilised omavahendid koosnevad tollimaksudest, põllumajandussaaduste tollimaksudest ja suhkrumaksudest, mida on kogutud alates 1970. aastast"</i>. Mäletate veel kunagist suhkru ülemäärase laovaru teemat? Just.
+<p>
+<b>Käibemaksupõhised omavahendid</b> hakkasid liidu eelarvesse laekuma 1979. aastal, kui liikmesmaade käibemaksusüsteemid ühtlustati.
+<p>
+<b>Kogurahvatulu põhised omavahendid</b> lepitakse kokku iga eelarvega, misjärel riigid maksavad liidule kindla protsendi oma GDP-st, liidu investeeringud aga suunduvad rohkem vaesemate maade tasku. Tööjõud võib minna Eestist jõukamasse Soome, aga EL kompenseerib toetuste ja investeeringutega. Eelarveperioodil 2007-2013 olid Soome sissemaksed näiteks 0.24% kogurahvatulust, Eestil aga negatiivsed -3.3%. Nii ka taastepaketiga: Kesk- ja Ida-Euroopa <a target=_blank href="https://www.reuters.com/article/us-eu-summit-emerging-europe-idUSKCN24I1Q3">maksab paketist 11%, kasutab vahenditest aga 25%</a>. Solidaarsus hoiab asju koos.
+<p>
+<b>Plastpakendijäätmete põhised omavahendid</b> pole pakendimaks, ega haaku otse Eesti aktsiisiga. Tegu on liikmesriigi kohustusega tasuda liidu eelarvesse ringlusse võtmata jäänud plastpakendite massilt. Soodustus tehakse taaskord vaesematele maadele. Kuidas riik plasti maksustab ja kuivõrd püüab vähendada prügi, on riigi otsus. Üsna igav on ka omavahendite kaasamise ülemmäära tõus: see tõuseb 0.2 protsendipunkti, <a target=_blank href="https://www.consilium.europa.eu/en/press/press-releases/2020/12/14/next-multiannual-financial-framework-and-recovery-package-council-moves-to-finalise-adoption/">tasemelt 1.2% tasemele 1.4%</a>.
+<p>
+<b>Seega, kui onu Henn ostab suhkrut, saadab ta raha energiavolinik Kadrile</b>, algul suhkruga ja lisaks käibemaksuga. Kadri ülesanne on teadagi kujundada õiglase ülemineku programm, mis aitaks Virumaal kivipõletust lõpetada (kukermiit on masendav energiakandja, söest 3 korda jõuetum, kuid mitte vähem saastav).
+<p>
+Era- ja riigifirmade rolliks jääb taotleda EL toetust, et rajada muuseas tuuleenergia ülejääkide kogumiseks pumphüdrojaamu (suurim võiks olla pankranniku serval). Leedul on edumaa, sest <a target=_blank href="https://lt.wikipedia.org/wiki/Kruonio_hidroakumuliacin%C4%97_elektrin%C4%97">Kruonise PHEJ</a> hakati plaanima juba 1970-ndatel Ignalina AEJ töö optimeerimiseks. Oleme kiired, muidu näeme tagatulesid.
+<p>
+Mõelda tuleks <a target=_blank href="http://www.helmeth.eu/index.php/technologies/integrated-p2g-process">soojuslikult integreeritud elektrolüüsi ja vesiniku metaneerimise</a> tehasele (CO2 sisendiga mõnelt prügimäelt, puidupõletuse jaamast või muust tehasest). Tuumajaam on aeglane ja kallis investeering, mis pole tingimata halb, kuid jätab väga vähe eksimise ruumi. Virumaal peab avanema uut tööstust ammu enne tuumajaama osas otsustamist.
+<p>
+
+
+<b>II: politseiriiki püüdmas</b>
+<p>
+Politseiriiki on vilksamisi näinud eri seltskonnad eri ajal, mõned lähedalt. Pronksiöö järel, kui siseminister Pihl läks veidi hoogu, leidsid kaheteist seaduse korraga muutmise eelnõu anarhistid. Taheti keelata rahumeelsed koosolekud põhiseaduse muutmiseks, anda üsna suvaliselt viibimiskeeldu, lubada üsna suvalist vahistamist, lühiajaliselt dokumenteerimata. Sooviti loobuda teavitamast, kui jälitustoiming on riivanud eraelu puutumatust. Loomulikult taheti keelata maskid. Et näha tulemata jäänud riigi nägu, kirjutage õiges kohas nõiasõnad:
+<p>
+<i>"Politseiseaduse, jälitustegevuse seaduse, piirivalveseaduse, avaliku koosoleku seaduse, politseiteenistuse seaduse, hädaolukorraks valmisoleku seaduse, liiklusseaduse, turvaseaduse, elektroonilise side seaduse, piirivalveteenistuse seaduse ja riigisaladuse ja salastatud välisteabe seaduse muutmise seadus"</i>
+<p>
+Panime eelnõule kaikaid kodaratesse lehes, auditooriumis, tänaval ja netis. Sama tegi justiitsministeerium. Muudatuste pakett võeti tagasi, menetleti jupikaupa. Osa pääses läbi, sest ministeeriumidel on häbematu komme tilgutada tõrjutud muudatusi uuesti eelnõuks. Keegi ei suuda nendega pidevalt maadelda.
+<p>
+<b>Politseiriigist napilt pääsenud, astusime plärtsuga jälgimisühiskonda</b> katkist eurodirektiivi täites. Aastal 2007 sätestas liit, et riigid juurutavad sidevahendite metainfo korje. Riigikogu juurutas selle eeskujulikult - aruteluta, vastuhäälteta, sidudes Elektroonilise Side Seaduse ühte Rahvatervise Seadusega, nagu ebaõnnestunud seadusloome puhul tavaks.
+<p>
+Tunnustuseks tuleb öelda, et Euroopa Liit parandas oma vea: direktiiv tunnistati õigusvastaseks ja <a target=_blank href="https://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf">tühistati</a> Euroopa Kohtus aastal 2014. Kohus leidis vastuolu EL Põhiõiguste Hartaga ja eraelu puutumatuse massilise riive. Paraku oli metainfo meie võimudele meeldima hakanud. <b>Eesti on ESS paragrahvi 111¹ tühistamast keeldunud juba 7 aastat.</b> Seadus on taas menetluseks lahti, aga plaanitakse tühistada vaid paragrahvi 112¹, mis kohustab jälgimisest aru andma ja seda Komisjonile edastama. MKM kirjutab vastuses märgukirjadele, et põhiseadus ei keela. Õiguskantsler arvas seda tõesti, aga kohus pole kaalunud. EL Põhiõiguste Harta keelab, Euroopa Kohus keelab.
+<p>
+<b>Siseministri nimi võib olla Anvelt või Helme, laul on sama</b>: <i>"vajame, võime, võtame - eest ära, tülikas kodanik"</i>. Helme ajal hakati lausa programmidesse tagauksi tahtma. See on õnneks hobuse unenägu, sest tarkvaratootjad ja teenusepakkujad ei plaani majandada saja riigi luurajate piiluauke.
+<p>
+Hiljuti oli Mart Helme mures, et politseiriik on õuel, eelnõu peale, mis objektiivselt mõõdetavas hädaolukorras lubab Terviseametil anda oma kehtivad õigused politseile ja tollel - kohutav - viia inimesi koju. Kui see on politseiriik, on mul teile üks Linnahall müüa. Kus mees eile oli? Tarkvarasse tagauksi puurimas - ja polnud politseiriik. <b>Kas mõni päris poliitik astuks palun sammu edasi?</b>
+<p>
+Mis on õigusvastaselt alanud, peab kohe lõppema. Äärmisel juhul sätestame, mis kriis takistab, kuidas selle lõpp ära tuntakse? Senikaua, lühendame hoiuaega, piirame andmeliike, krüptime info kogumishetkel kohtu avalikule võtmele, krüptitud info hoiustame muus asutuses, et võti ja teave poleks samas kohas.
+<p>
+Hetkel annab metainfo väljastamise lube välja prokuratuur, advokatuur on <a target=_blank href="https://leht.postimees.ee/7233312/advokaadid-pole-rahul-euroopa-kohut-eirava-prokuratuuri-tegevusega">leidnud</a>, et aidavõti on meil hiire käes. Võtame aidavõtme hiirelt ära: õiges protsessis prokuratuur taotleb, info erapooletu hoidja (näiteks TTJA) väljastab ning kohus dešifreerib andmed. <b>Kui üldse kogutakse.</b>
+<p>
+<b>Maalime nüüd kolli: metakatastroof</b>
+<p>
+Mõnikord tuleb maalida tont, et inimesed taipaks. Nüüd on aasta 2030 ning kodukant on ohus. Aastal 2028 langesid meie naabrid - algul Venemaa (kavalusega) ja siis Läti (jõuga) anarho-fašistliku <a target=_blank href="https://www.err.ee/618854/err-minskis-zapadiks-loodud-tinglik-vastane-veisnooria-on-hakanud-oma-elu-elama">Veišnooria Režiimi</a> alla.
+<p>
+Meie esmane kaitseliin on kolm säästuässa, kes odavteenust pakkudes metainfo baasi täidavad: Tele2, Elisa ja Telia. Veišnooria luure vastu on nad sama tõhusad, kui padjasõdalane Tšingiš-khaani hordi vastu. Häkkerite ja agentide sujuvas koostöös võetakse Eesti teabest koopia ja luuakse ka püsiligipääs.
+<p>
+Kätte saadakse isikustatud andmed, juurde kaardistatakse suhtevõrk. Avaandmeid pruukides klassifitseeritakse isikud poliitikuteks, ametnikeks, diplomaatideks, sõjaväelasteks, politseinikeks... kapo ja teabeameti töötajad traalitakse välja positsioneerimisega. Sihtmärkide sekka maanduvad ka päästjad, arstid, ajakirjanikud, elektrivõrgu, side ja kütusega tegelev rahvas. Sõjaväelaste käikude põhjal tuvastatakse varude asukohad. Kirsiks tordil kopeeritakse Eesti passifotod ja sõrmejäljed, sest Veišnooria eripolitseil NOMO on näotuvastusega kiivrikaamerad ja sõrmejälje skännerid, millega sihtmärgi jälg tänaval üles võtta.
+<p>
+Murdmata jääb ainult üks andmekogu: riigist vanema Tartu Ülikooli geenivaramu kopeeritakse, kuid teavet isikustada ei suudeta. Lõpuks Veišnooria ründab ja esimesel ööl teevad eriüksused koleda töö. Eesti Vabariigil lüüakse pea otsast oma mõõgaga. Nagu Tolkieni jutus pole kääbikul tark mängida Sauroni sõrmusega, pole ka Eestil vaja totaalset ülevaadet kõige liikumisest. Kuni vabariik jääb endaks, piirab ta endal teabe kasutamist. Mõni teine kasutaks kohe, võib-olla kasutabki juba? <b>Kasu totaalsest jälitusteabest on selgelt suurim ebaeetilisele osapoolele, kes ei piira end reeglitega.</b>
+<p>
+<b>Kui tahame Eesti inimesi kaitsta, tuleb kaitsta ka nende privaatsust. Kui lugeja on juhtumisi Riigikogu liige, ootame eelnõu teisel lugemisel tegusid.</b>
+<p>
+
+<p>
+P.S.
+<p>
+Täna ilmub Õhtulehes alltoodud reklaamtekst:
+<p>
+<a target=_blank href="./pics/2021-04-27-metapropaganda-ja-metainfo.pdf">
+<img class="content-image-wide" width=800 src="./pics/2021-04-27-metapropaganda-ja-metainfo.png">
+</a>
+<p>
+</div>

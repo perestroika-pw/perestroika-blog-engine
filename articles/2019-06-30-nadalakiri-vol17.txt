@@ -1,0 +1,160 @@
+N17: kuidas mitte teha
+2019-06-30
+perestroika.pw
+nädalakiri
+
+
+
+<p>
+See nädalakiri (vabandame, et eelmine vahele jäi,
+lugege selle asemel Feministeeriumi avaldatud Jaan Veski
+artiklit <a target=_blank href="https://feministeerium.ee/kuidas-kasutada-demokraatiat/">"Kuidas kasutada demokraatiat?"</a>)
+keskendub negatiivsusele. Seekord jutustame, kuidas mitut sorti asju mitte teha. :)
+<p>
+
+
+<p>
+<div class=illustration-image>
+<a target=_blank href="https://commons.wikimedia.org/wiki/File:The_House_of_Leaves_-_Burning_4.jpg">
+<img src="./pics/2019-06-30-the-house-of-leaves-burning.jpg"><br>
+Põlev raamat "The House of Leaves"<br>
+Allikas: Wikimedia, autor: LearningLark, litsents: CC BY 2.0
+</a>
+</div>
+<p>
+
+<p>
+<b>Kuidas mitte e-raamatupoodi teha</b>
+<p>
+
+Cory Doctorow <a target=_blank href="https://boingboing.net/2019/06/28/jun-17-2004.html">meenutab</a>
+oma blogis, mida ta Microsofti raamatuäri kohta <a target=_blank href="https://boingboing.net/2004/06/17/why-microsoft-should.html">aastal 2004</a>
+kirjutas. Nimelt seda, et Microsoft peab DRM-iga mängimise ära lõpetama.
+DRM-i ehk digitaalse õiguste jõustamisega e-raamatupoes mängida
+on umbes sama tark, kui päris raamatukogus süütepudelite ja tõrvikutega žongleerida.
+<p>
+Raamatuid kirjutatakse eeldusel, et neid on teinekord uuesti vaja.
+Neid kirjutatakse, et teave säiliks. Microsoft võtab peagi maha oma
+e-raamatuäri litsentside kontrollimise serverid, mispuhul
+nende müüdud e-raamatud... lõpetavad olemas olemise.
+<p>
+Kuna tegemist ei ole pankrotiga (aga ärimaailmas juhtub ka kontrollimatuid
+pankrotte - just nagu päris maailmas juhtub sõdu, mis Interneti maha toovad),
+siis klientidele hüvitatakse kahju.
+<p>
+Vanasti raamatud kirjastaja meelemuutuse või pankroti korral
+õhku ei lennanud. Et aus olla, on mul riiulil üks raamat
+aastast 1895, mis ikka vahest kasulikku teavet jagab,
+kuigi riik, milles see kirjutati enam ei eksisteeri,
+inimesed on surnud ja (oh õudust) isegi mood on muutunud.
+<p>
+<p>
+&nbsp;
+<p>
+
+
+
+<p>
+<div class=illustration-image>
+<a target=_blank href="https://commons.wikimedia.org/wiki/File:Clinic_on_a_Slope_(23237249203).jpg">
+<img src="./pics/2019-06-30-clinic-on-slope.jpg"><br>
+Juhuslik peretervise kliinik mäenõlval, foto on illustratiivne<br>
+Allikas: Wikimedia, autor: Michael Coghlan, litsents: CC BY SA 2.0
+</a>
+</div>
+<p>
+
+<p>
+<b>Kuidas mitte abordi vastu võidelda</b>
+<p>
+
+<p>
+USA avalik-õiguslik raadiokanal NPR jutustab oma veebilehel loo
+<a target=_blank href="https://www.npr.org/sections/goatsandsoda/2019/06/27/736574110/study-u-s-ban-on-aid-to-foreign-clinics-that-promote-abortion-upped-abortion-rat">
+USA presidentide mõjust abortide arvule Aafrikas</a>.
+<p>
+Teatavasti on kõik viimasel ajal Valgesse Majja sattunud vabariiklased
+keelanud oma ametiajal jagada abi heategevuste kaudu,
+mis pere planeerimise teemal nõu andes mainivad võimalusena aborti.
+<p>
+(Tasub teada, et valdav enamus teaduspõhist nõu andvaid ettevõtmisi seda
+ka mainib, ent kunagi ei soovitata seda esimese valikuna,
+ning võimaluse lisaks räägitakse ohtudest.)
+<p>
+Kuna presidendid Obama ja Clinton on oma ametiaegadel piirangu maha võtnud,
+on ajaloos talletunud huvitav muster, mis võimaldab nähtuse mõju uurida.
+Nüüd on sellest uurimus tehtud. The Lancet pole sealjuures
+suvaline meditsiini teemaline ajakiri, vaid maailmas kõrgelt hinnatud
+teadusajakiri, kuhu minevad uuringud loetakse enne avaldamist mitme
+eksperdi poolt läbi.
+<p>
+Järeldused, mille Lancet avaldas, näitavad et abordist rääkimise rahastuse
+kinnikeeramine vabariiklaste poolt <a target=_blank href="https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30267-0/fulltext">
+suurendab abortide arvu</a>. Uuringu valimiks olid 743 691 sündi ning aborti 26-s
+Saharast lõunasse jäävas riigis. Aastatel 2001-2008, kui piirang oli jõus,
+kasvas USA abist enam sõltuvates maades (võrreldes vähem sõltuvate maade
+ja ilma piiranguta perioodidega) abortide arv 4..8 abordi võrra
+10 000 naise kohta aastas, mis on varasema tasemega võrreldes 40% suurune sagenemine.
+Sümmeetriliselt sellega leiti raseduse vastaste vahendite kasutamise
+3..15 protsendipunkti suurune langus ning raseduste 3..2 protsendipunkti
+suurune sagenemine (suhteliselt 12% suurune sagenemine).
+<p>
+Järeldus on ühemõtteline: presidendid Reagan, Bush I, Bush II ja Trump
+on toetanud järjekindlalt Aafrika vaesemates maades aborti.
+Kui poliitika töötaks põhimõttekindlalt, siis süüdistaks
+Ameerika Taliban nüüd vabariiklikke presidente genotsiidis
+ja Euroopa Liit nõuaks neilt kahjutasu koormava sisserände
+põhjustamise eest.
+<p>
+Paraku ei hinnata presidente selle järgi, kas nende teod saavutavad eesmärke,
+vaid üksnes selle järgi, kas nad avalikkusele meeldivat juttu ajavad.
+<p>
+
+
+
+
+<p>
+<div class=illustration-image>
+<a target=_blank href="https://i.redd.it/d28dxnq6w1731.jpg">
+<img src="./pics/2019-06-30-intellektuaalide-kogunemine.png"><br>
+Intellektuaalide kogunemine, kuvatõmmis Reddit-ist<br>
+Allikas: Reddit, autor: tundmatu, kasutus: fair use
+</a>
+</div>
+<p>
+
+<p>
+<b>Kuidas mitte Sinise Äratusega lasketiirus käia</b>
+<p>
+
+
+<p>Just nagu keegi Redditis
+<a target=_blank href="https://www.reddit.com/r/Eesti/comments/c6hb68/intellektuaalide_kogunemine/">kirjutas</a>,
+on Ruuben Kaalep millalgi EKRE-noortega <a target=_blank href="https://i.redd.it/d28dxnq6w1731.jpg">
+lasketiirus meelt lahutamas käinud</a>.
+<p>
+Kuna tänapäeval lasketiirus käimisel on nähtavasti ohutult laskma õppimisest
+tähtsam teha selfie-sid ja grupipilte, et hiljem netis "gängsta" välja näha
+ja äärekuninga punkte teenida, on osad noorpoliitikud kasutanud võimalust
+ka individuaalselt revolver pihus poseerida ja oma pildile hiljem juudivastaseid avaldusi
+<a target=_blank href="https://imgur.com/a/NiRKGTy">peale sobitada</a>.
+<p>
+Miks see ääretult rumal on? Seepärast, et poliitilise jõu väärtust tõstab rahumeelsus.
+Poliitilised jõud, mis mängivad relvadega, annavad vihje,
+et relvad on poliitika tegemiseks sobiv vahend.
+Ei ole. Kui relvad oleks poliitika tegemiseks sobiv vahend,
+poleks inimkonda enam alles, Eesti rahvast ammugi poleks,
+ning kui relvad saaks sobivaks vahendiks, oleks varsti
+putukate kord tsivilisatsiooni värki proovida.
+<p>
+Poliitikat tehakse sõnadega ja ja kõvatamine ei aita edasi.
+Niisiis Ruuben, palun tehke veel, kui erakonna maine liiga kõrge on.
+<p>
+
+
+
+
+
+
+
+

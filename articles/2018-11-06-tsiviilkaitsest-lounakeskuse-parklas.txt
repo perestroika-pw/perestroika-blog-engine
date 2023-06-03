@@ -1,0 +1,42 @@
+Tsiviilkaitsest Lõunakeskuse parklas
+2018-11-06
+Jaan Veski
+küber, tsiviilkaitse, hoiame lihtsana
+
+<p>
+Lõunakeskuse parklas tegid inimesed kogemata valmis esimese
+moodsa aja tsiviilkaitse õppuse.
+Riik ei olnud asjasse segatud, ärge muretsege, keegi puudumise pärast
+trahvi ei saa. :)
+<p>
+Nimelt <a target=_blank href="https://tartu.postimees.ee/6447273/lounakeskuse-parkimisanomaalia-pohjus-peitis-end-otse-parkla-korval">
+läks lolliks reoveepumpla telemeetria saatja</a>, mis ilmselt toimis 433 MHz sagedusel,
+mil toimivad ka paljud autovõtmed.
+<p>
+Oletada võib, et saatja hakkas purjus töllu kombel tiira-taara
+mööda teisi sagedusi käima, ning suutis teha seda piisavalt mitu korda sekundis,
+rikkudes ära autovõtmete krüptitud andmevahetuse autodega.
+Tulemusena ei usaldanud digivõtmega autod oma võtmeid,
+ning ei võtnud vaevaks käivituda.
+<p>
+Asjaolu, et inimesed mugavuse nimel nõustuvad ostma masinaid,
+mis võivad pelgalt teise masina sõnumi peale
+oma omaniku tõsiselt hätta jätta... asjaolu, et inimene
+tegelikult ei olegi tänapäevase auto omanik,
+sest tarkvara lähtekood on tema eest luku taga ja varjul...
+<p>
+..see räägib midagi inimeste kustumatust mugavuse janust.
+Nüüd aga kujutlegem, et teie nutika auto immobilaiseriga
+peab lühikese vestluse mitte hullunud reovee pumpla,
+vaid spetsiaalselt selleks sõjanduslikus laboris tehtud masin.
+Säärasel juhul on reaalne risk, et teie auto ei pea teid enam kellekski,
+isegi kui see masin silmapiirilt lahkunud on.
+<p>
+Käesolev on üleskutse mitte kiirustada. Tarbijal on tegelikult
+suur võim tootja üle, ta peab lihtsalt olema teadlik
+ja järjekindel. Kui tarbija soovib kaupa, mida ei saa
+häkkida ja üle võtta, siis keegi ka toodab seda talle.
+Kui tarbija laseb end tüürida üha mugavama suunas,
+siis lõpuks on ta abitu lahendama mistahes tõrget.
+</p>
+

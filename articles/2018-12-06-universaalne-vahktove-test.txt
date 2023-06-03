@@ -1,0 +1,85 @@
+Universaalne vähktõve test
+2018-12-06
+Jaan Veski
+tervis, diagnostika, päris ohud
+
+<p>
+Kui juba teadusteemaliste uudiste libedale teele mindud, on raske sealt ära tulla. :)
+Tegemist on nimelt märksa kaalukamate uudistega, kui see,
+mis emotsioone keegi kütab, või mis identiteedi vormi viljeleb.
+Päris ohtude rindelt võib siis teatada,
+et vaenlase nr. 2 vastu on uued tõhusad spioonid leitud. :)
+<p>
+Nägime, kuidas The Guardian kirjutab sellest, kuidas Queenslandi Ülikooli teadlased
+on töötanud välja <a target=_blank href="https://www.theguardian.com/science/2018/dec/04/scientists-develop-10-minute-universal-cancer-test">
+peaaegu universaalse vähktõve kiirtesti</a>, millega saab vereproovist 10 minutiga ära tunda
+vähirakkudele iseloomuliku metülatsiooni mustriga DNAd ka madalas kontsentratsioonis.
+Artikli <a target=_blank href="https://www.nature.com/articles/s41467-018-07214-w">
+illustreeritud kokkuvõtet uurijate enda sulest</a>
+saab lugeda ajakirjas Nature Communications.
+<p>
+Kõnealune test väärib tähelepanu, kuna on lihtne ja odav,
+kasutades (nüüd on iroonia koht) kulla nano-osakesi.
+Kuld on nimelt antikehadest võrratult odavam kraam.
+<p>
+Tausta kohta tasub teada, et igasugune DNA võib rakus olla
+kas metüülrühmadega ühinenud või ühinemata olekus.
+Metüülrühm on molekulaarne jupp, mis hakkab DNA koodisõna
+C ehk aminohappe tsütosiin külge. Metüleerimise tase ja muster
+väljendab raku eluviisi. Raku muutumisel normaalsest rakust vähirakuks
+vabaneb enamus tema DNA-st metüülrühmadest
+ja need kogunevad kitsastesse piirkondadesse,
+kus hakkavad toetama teatud geenide hüperaktiivset lugemist.
+<p>
+Uurijad raporteerivad, et puhastatud DNA füüsikalis-keemilised
+omadused on metüleerimise "maastikule" niivõrd tundlikud,
+et lubavad töötada välja testi vähile iseloomuliku
+metüleerimise maastiku tuvastamiseks.
+<p>
+Normaalsete rakkude DNA-l on suurem kalduvus vesilahuses kokku koguneda ja agregeeruda.
+Põhjuseks näib olevat metüülrühma hüdrofoobne toime, mis koos metüülrühmade ühtlasema
+jaotusega viib erineva käitumiseni lahuses.
+Erinevad lahustumiskombed põhjustavad muuhulgas erineva afiinsuse
+paljast metallist pindadele, näiteks kullale.
+See võimaldab hinnata DNA kliinilis-patoloogilist seisundit.
+<p>
+Katsetes pruugiti suurt arvu (üle 200) näidiseid inimestelt,
+mis esindasid normaalseid rakke ja erinevaid vähitüüpe.
+Täheldati, et strateegia on lihtne, ei vaja sensorpindade välja töötamist,
+ei vaja DNA eeltöötlust ensüümidega või muude kemikaalidega,
+ega ka võimendamist polümeraasi ahelreaktsiooniga.
+Kasutati valdavalt üle 40-aastastelt isikutelt saadud
+näidiseid. Rinna- ja eesnäärmevähi näidiste puhul
+võrreldi samast soost isikutelt saadud näidiseid.
+<p>
+Pärastpoole võeti ette vabalt ringleva DNA analüüsimine,
+eesmärgiga et arendatav metoodika oleks patsiendile vähem invasiivne.
+Valiti 100 vereplasma näidist rinnavähi ja pärasoolevähiga patsientidelt,
+ning 45 tervetelt isikutelt. Vajalikuks mõõtekoguseks osutus ca. 5 pikogrammi DNA-d,
+millel lasti adsorbeeruda kullast ülisiledate elektroodide peale,
+misjärel mõõdeti elektroodide omadusi elektrokeemiliselt.
+Vähirakkude DNA-ga elektroodidelt saadi suurem suhteline vool,
+saavutades positiivse vastuse ennustamise tõenäosus (PPV) 91.30%
+ja negatiivse vastuse ennustamise tõenäosus (NPV) väärtusega 69.81%.
+<p>
+Eraldi uuring üksnes rinna- ja pärasoolevähi näidistega
+andis väga kõrge tundlikkuse ja valivuse.
+Kontrollides näidiseid soo ja ea järgi, püsisid
+patsientide näidised kontrollgrupi omadest selgelt eristatavana.
+Segades vähirakkude DNAd suure koguse normaalse DNA-ga uuriti,
+kui väikeses osakaalus see avastav on. Piirjooneks,
+millest allpool see avastatav pole, saadi ca. 1%.
+Seega ei ole praegune meetod piisavalt tundlik, et avastada
+väikseid ja väheaktiivseid kasvajaid.
+<p>
+Lõpuks testiti meetodi sobivust palja silmaga analüüsimiseks
+kulla nano-osakeste lahuse abil. Vajalik oli 1 pikogramm
+vabalt ringlevat DNA-d, mida inkubeeriti kulla nano-osakeste lahuses 5 minutit,
+misjärel lisati soola "SSC 5X" (0.75M NaCl, 0.075M naatriumtsitraat),
+et algatada osakeste agregeerumine. Saavutati PPV väärtus 88.61%
+ning NPV väärtus 54.55%.
+<p>
+Suure hulga tugrikuid ja väga head värvipliiatsid
+saavad Austraalias asuva Queenslandi Ülikooli
+teadlased Abu Ali Ibn Sina ning Laura G. Carrascosa.
+<p>

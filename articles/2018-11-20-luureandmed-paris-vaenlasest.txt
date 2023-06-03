@@ -1,0 +1,53 @@
+Luureandmed päris vaenlasest
+2018-11-20
+Jaan Veski
+vähktõbi, ennetus, päris ohud
+
+<p>
+Ainult poliitikaga tegeleda on igav. Tegeleme vahelduseks meditsiini-uudiste vahendamisega,
+sest kui teised näitavad mängukolle, võiks me vahelduseks näidata päris kolli. :)
+<p>
+<a target=_blank href="https://www.bbc.com/news/health-46179118">BBC refereerib</a> teadusartiklit väljaandes Nature Immunology,
+mis toob meile <a target=_blank href="https://www.nature.com/articles/s41590-018-0251-7">luureandmeid päris vaenlase kohta</a>.
+Päris vaenlane on see, mis meid tegelikult murrab, ja esmajärjekorras on see haigus,
+ravi puudumine ja vaesus, nirud harjumused ja mõnikord neist tulenevad mõtlematud valikud,
+stress (mis teeb tõestatult rumalamaks), hariduse puudumine (mis ei võimalda saada targaks)
+ning kõige taustal... ebavõrdsus, mis loob konkurentsipõhise ühiskonna.
+<p>
+Antud juhul keskendume päris vaenlase üksusele, mis kannab nime "vähktõbi".
+Tegemist on vaenlasega nr. 2 (esimesel kohal on vereringe elundite haigused), mis murrab Eestis
+<a target=_blank href="https://ec.europa.eu/eurostat/statistics-explained/images/4/45/Causes_of_death_%E2%80%94_standardised_death_rate%2C_2014_%28per_100_000_inhabitants%29_YB17.png">100 000 inimese kohta 299 inimest aastas</a>, ehk ühtekokku (täname tähelepanelikku lugejat, arvutus parandatud!) ca. 3900 inimest aastas.
+Kaugel tagapool haiguseid on inimtekkelised põhjused, nagu liiklusõnnetused ja enesetapud.
+Euroopa riikides vägivald oluline surmapõhjus pole, millest võiks kirjutada
+eraldi artikli pealkirjaga "Miks Euroopa tükk aega sõdinud pole?".
+Vähktõve osas on aga uued luureandmed, et vaenuvägi saab jõudu
+laoplatsilt nimega "rasvumine".
+<p>
+Nature Immunology kokkuvõte on BBC omast informatiivsem:
+"Kuni 49% teatud vähitüüpidest on seoses ülekaalulisusega.
+Võimalikud mehhanismid on teatud hormoonide, adipokiinide ja insuliini ületoodang.
+Tsütotoksilised immuunrakud, muuhulgas ka "tapjarakud" ja CD8+ tüüpi T-lümfotsüüdid
+on olulised immuunsüsteemi vähiavastuse mehhanismides, aga ülekaalu ja
+vähiavastuse seoseid tuntakse vähe. Uuring näitab, kuidas <a target=_blank href="https://en.wikipedia.org/wiki/PPAR">retseptor PPAR</a>
+(peroksüsoomide levikust aktiveeritud retseptor) vahendab lipiidide ladestumist
+"tapjarakkudes", halvates lõpuks nende töövõime.
+<p>
+Järeldus võiks olla kahesuunaline: olukorras, kus haigus on juba olemas,
+saaks immuunrakkude töövõimet teatud trikkidega upitada. Olukorras,
+kus haigust veel pole, on kasulik sättida oma elustiil nii,
+et see väldib ülekaalu, sest välditavad vähitekke allikad (Cancer Research UK andmetel)
+on järgmised ja selles järjekorras:<br>
+<p>
+- suitsetamine<br>
+- ülekaal<br>
+- UV-kiirgus<br>
+- tööga seotud riskid<br>
+- nakkused<br>
+- alkohol<br>
+- kiuvaene menüü<br>
+<p>
+Kogukate tegurite nimekiri ses punktis lõpeb, ja edasi tulevad
+pisemad riskid nagu ioniseeriv kiirgus, töödeldud liha, õhusaaste
+ja istuv eluviis.
+<p>
+

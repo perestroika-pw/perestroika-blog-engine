@@ -1,0 +1,70 @@
+Hambad korda, et aju kaua tiksuks
+2019-01-25
+Jaan Veski
+meditsiin, alzheimeri tõbi, päris ohud
+
+<p>
+Juba aastal 2016 teadis ajakiri Eesti Arst <a target=_blank href="http://eestiarst.ee/news/periodontiit-on-aterosklerootiliste-kardiovaskulaarsusteemi-haiguste-riski-naitaja/">kirjutada</a>, et periodontiit (hambakõrvalkudede põletik, lihtsustatult
+igemepõletik) on riskitegur südame- ja ajuhaiguste esinemiseks.
+<p>
+Nüüd refereerivad <a target=_blank href="https://www.bbc.com/news/health-46986709">BBC</a>
+ning <a target=_blank href="https://www.hs.fi/tiede/art-2000005976897.html">Helsingin Sanomat</a>
+teadusmaailmas käärivaid oletusi, et Alheimeri tõve põhjuslikkuse ahelas on mängus
+igemetel elav bakter <a target=_blank href="http://advances.sciencemag.org/content/5/1/eaau3333">
+Porphyromonas gingivalis</a>. Ajakirjas Science Advances 23. jaanuaril avaldatud uuring
+toetab eelneval aastal Taiwanis tehtud uuringut, <a target=_blank href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5547465/">mis järeldas</a>,
+et Alzheimeri tõve ja kroonilise periodontiidi vahel on seos, kuid ei suutnud
+näidata seose põhjuslikkust - üksnes, et 10 aastat põetud igemepõletikuga
+käib kaasas ajuhaiguse 1.7-kordne risk.
+<p>
+Uue uuringu kokkuvõte seletab, et Porphyromonas gingivalise toksiinide esinemine ajus
+on tugevas korrelatsioonis Alzheimeri tõve põdemisega (beeta-amüloidvalgu
+klompidega ja tauvalgu moondumisega). Uurijad oletasid, et protsessi põhjuseks
+on bakteri toodetavad proteolüütilised (valkusid lõhustavad) toksiinid,
+mida nimetatakse gingipaiinideks. Tõvest kahjustunud ajukoe näidetes
+leiti 96% hulgas arginiin-gingipaiini ja 91% puhul lüsiin-gingipaiini esinemist,
+kahjustumata koes esines samu bakteritoksiinide ühendeid 39% ja 52% puhul.
+<p>
+Nimetatud toksiinid on bakterile kriitiliselt tähtsad ellujäämisel,
+organismi koloniseerimisel ja haigusttekitaval toimel, aidates
+deaktiveerida kaitsemehhanisme, hankida rauda ja muid toitaineid
+ning kahjustada kudesid. Gingipaiinide kahjulikku toimet tuntakse hetkel
+nii fibroblastide kui endoteeli ja epiteeli rakkude vastu.
+<p>
+Gingipaiini proteolüütilise tegevuse blokeerimine on katsetel vähendanud
+P. gingivalis-e nakkavust. Gingipaiinil on ka tõestatud võimekus
+tauvalku tükeldada, mis omakorda on oletatav viis selle
+lahustumatute ja ülemäära fosforüleeritud kämpude moodustumiseks.
+<p>
+Eelneva teabe omandamise järel kontrolliti elus hiirte peal
+bakteritoksiini kahjustavat ja selle inhibiitorite kaitsetoimet.
+Valiti 8 nädala vanused BALB/c katsehiired.
+Uuritatele gruppidele süstiti bakteritoksiine Kgp and RgpB,
+kuid osadele anti anti 1.5 tundi varem suu kaudu gingipaiini inhibiitoreid.
+Kontrollgrupile süstiti eeldatavasti ilma toimeta soolalahust.
+Ilmnes, et gingipaiini inhibiitoritel on hiirele märgatav kaitsetoime.
+<p>
+Lõpuks oldi piisavalt veendunud bakteri enda tõvestavas toimes,
+et seda sooviti lähemalt uurida, ning grupp hiiri
+nakatati suukaudsel teel P. gingivalis-ega, millest ühel tüvel
+oli mõlema toksiini tootmise võime, teisel üks eemaldatud
+ja kolmandal mõlema toksiini geenid välja lülitatud.
+Hiirte ajus suurenes Aβ1–42 (amüloid-beetavalgu) toodang oluliselt
+üksnes mõlemat päris toksiini tootva bakteritüve toimel.
+<p>
+Tulemusena võib pidada tõeseks, et P. gingivalis
+nakatab aju ning nakkus põhjustab valgu Aβ1–42 (amüloid-beetavalgu)
+ületoodangut ajukoes, kusjuures Aβ1–42 on bakteri vastu
+antibakteriaalse toimega, ehk tõenäoliselt on tegu
+organismi kaitsemehhanismiga, mis teda ennast kahjustab.
+<p>
+Niisiis, hoiame oma hambad korras ja kui ei suuda,
+laseme katkised välja tõmmata. Me peame elama hiirest kauem
+ja kui ei pea bakteritega võitlema, on ajul elu kergem,
+süda ning veresoonkond samuti rõõmustavad.
+<p>
+Samuti avaldame kaastunnet info hankimise nimel
+elu kaotanud hiirtele. Loodame, et kui inimesed üha vanemaks
+elavad, unustavad nad üha rohkem toidukraami lohakile,
+mis lõppkokkuvõttes tuleb maailma hiirkonnale kasuks.
+<p>

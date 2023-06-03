@@ -1,0 +1,75 @@
+<p>
+
+<img class=logo src="./pics/logo-drawing-gray.png" alt="Perestroika logo: nelikant-latt kahe hammasratta vahel">
+
+<!--
+<a target=_blank href="https://reddit.com/r/perestroika_pw_org">
+<img class=svglogo src="./pics/2019-04-24-arutelu.svg" alt="Kutse arutelule Redditis"> 
+</a>
+-->
+
+</p>
+
+
+
+<!--
+<p>Toimetaja lemmikud:
+<br>
+
+<div class="lefthalf">
+<ul>
+<li><a target='_self' href='2019-03-03-perestroika-tulevikust.html'>Perestroika tulevikust</a><br>
+<li><a target='_self' href='2018-10-28-juurutame-astmelise-tulumaksu.html'>Juurutame astmelise tulumaksu</a><br>
+<li><a target='_self' href='2019-02-17-naissaare-vabariik-koverpeeglis.html'>Naissaare vabariik kõrverpeeglis</a><br>
+<li><a target='_self' href='2018-10-24-toas-on-elevant-ma-pole-tema-klient.html'>Toas on elevant, ma pole tema klient</a><br>
+
+</ul>
+</div>
+
+<div class="righthalf">
+<ul>
+<li><a target='_self' href='2018-11-10-islandi-ime-miks-noored-ei-joo.html'>Islandi ime: miks noored ei joo?</a><br>
+<li><a target='_self' href='2018-08-23-uuring-vaesusest-lapsepolves.html'>Uuring vaesusest lapsepõlves</a><br>
+<li><a target='_self' href='2018-03-31-pole-viga,-sunnime-kaitsma.html'>Pole viga, sunnime kaitsma!</a><br>
+<li><a target='_self' href='2018-11-25-rohelise-maskiga-mees.html'>Rohelise maskiga mees</a><br>
+
+</ul>
+</div>
+-->
+
+
+<p>
+Perestroika on anarhistlik (libertaarne ja sotsialistlik) poliitiline blogi.
+Vasakäärmuslikud artiklid leiate vasakult äärest, kontaktid ja ümara jutu sektsioonist "Meta".
+<p>
+Samas on Perestroika eksperiment minimaalse blogimootori ehitamisel,
+mis ei vaja tööks JavaScripti toega brauserit ega serverilt
+midagi peale staatiliste failide majutamise võime. Blogi kompileerib
+offline'is pisike Javas tehtud programm, siis see laetakse üles.
+Väga 80-ndate lõpu tehnoloogia, aga murevaba ja töökindel.
+Lähtekoodi leiate <a target=_blank href="https://github.io/perestroika-pw/perestroika-blog-engine">siit</a>.
+<p>
+Kui teil on ligipääs kohale, kus tahate meid promoda, palun võtke vastu hästi suur AITÄH! :)
+Ilma promota ei jõua kuhugi. Kui tahame midagi muuta, peame kisama kõvemini
+kui kogemata laava sisse astunud troll (ja mitte muumitroll).
+Perestroika ei tule kunagi Facebooki, mis hävitab inimeste privaatsust ja õõnestab nende sõltumatust.
+Küll aga lõpetasime peavoolu meedia vältimise, kuigi leiame jätkuvalt,
+et seal avaldatud saamiseks peab tegema liiga palju tsirkust.
+Samuti leiab meid Redditi kanalilt <a target=_blank href="https://reddit.com/r/perestroika_pw_org">r/perestroika_pw_org</a>.
+Meile võib kirjutada ja joonistada ideesid ja lugusid, kui need on loetavad
+ja vähendaks võimu või suurendaks võrdsust, siis me avaldame.
+Honorari me ei paku, sest Perestroika ei näita reklaame ega kogu annetusi.
+<p>
+Meie peamiseks reklaami vormiks jääb füüsiline reaalsus.
+Soovime teha infomullid katki. Meid ei filtreeri. Me oleme tänaval,
+samizdatis, in your face, perset torkimas.
+<b>Vabandame ennetavalt "Korrakaitseüksus Munitsipaalpolitsei" ees,
+kui keskid kuhugi paberilehe on jätnud, avalik ruum ei kuulu teile!</b>
+Kallid lugejad, aitäh promo eest, olge tublid ja proovige olla korralikud! :D
+<p>
+Kui Perestroika pole teie jaoks, teil on igav või masendus tuli peale,
+ärge meelt heitke! Vaadake lehele "Mujal toimub", seal on viiteid
+teiste inimeste platvormidele, kirjatükkidele ja sündmustele.
+Kui aga tulite kuskilt üdini konservatiivsest kohast ja ehmusite,
+ärge kartke, tegelikult me oleme konservatiivid - anarho-konservatiivid. :D
+</p>

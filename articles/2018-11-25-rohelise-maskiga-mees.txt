@@ -1,0 +1,141 @@
+Rohelise maskiga mees
+2018-11-25
+Jaan Veski
+tervis, meditsiin, prioriteedid
+
+<p>
+Kõigepealt loodame, et klikimagnetist pealkiri tõi lugema ennekõike need,
+kes soovivad saada infot Kertši väinas toimunud roheliste mehikeste
+sündmuse kohta. Meil pole infot - kuigi oletame, et naftahinna langus
+ja pensioniea tõstmise ebapopulaarsus sundis tsaari vajutama
+patriootlike reflekside nupule. :)
+<p>
+Rohelise maskiga mees, kelle juttu täna vahendame, räägib palju
+igavamast ja samas olulisemast teemast. Inimkonna ajalooline nõrkus
+on minna ähmi täis tühistest asjadest, ja ignoreerida kaua,
+kui neil elevant vannituppa on pugenud. Aeg on see komejant lõpetada!
+Postimehes kirjtab UK-s rahvatervise arstina töötav Taavi Tillmann
+<a target=_blank href="https://arvamus.postimees.ee/6457933/rahvatervise-arsti-analuus-milline-erakond-parandaks-koige-rohkem-eesti-tervist">
+sellest, millise erakonna programm Eesti rahva tervist parandaks</a>.
+<p>
+Tervis on nii oluline, et "kuradima" ei ole piisav epiteet selle rõhutamiseks.
+Mitte keegi ei ela igavesti. Kõik jäävad kunagi haigeks.
+Ühiskond, mis oma liikmete tervist hoida aitab, võimendab oma suutlikkust,
+tootlikkust ja heaolu, mis omakorda mõjutab haridust, arenguvõimet
+ja pika ringiga peamast kõike.
+<p>
+<a target=_blank href="https://www.eestipank.ee/sites/eestipank.ee/files/publication/o_1_2016_kokku.pdf">Eesti Panga andmetel</a>
+oli Eesti pärast aastakümnete pikkust tõusu 2016. aastal Euroopas <b>ebavõrdsuselt</b> neljas riik.
+Statistikaameti andmeil on <a target=_blank href="https://blog.stat.ee/tag/palgalohe/">Eesti palgalõhe Euroopa suurim</a>,
+ja aastate 2015-2017 vahel tõusutrendis, tõustes 26.9 protsendi pealt 29.9 protsendi juurde.
+(Euroopa keskmine aastal 2015 oli 16.3 protsenti).
+Mis palgalõhes mängib meeste kasuks, tuleb eluea statistikas matsuga tagasi:
+<a target=_blank href="https://blog.stat.ee/tag/oodatav-eluiga/">sugudevaheline oodatava eluea ebavõrdsus</a> on Eestis kõrge,
+andes naistele 81,8 ja meestele pelgalt 73,1 eluaastat.
+Diganoos on piltlikult see, et statistiliselt oluline protsent Eesti inimesi,
+ennekõike mehi, ei jõua olulise tõvega õigel ajal arsti juurde, jookseb end raha järel haigeks,
+joob end surnuks, sõidab autoga vigaseks või leiab otsa muul nukral kombel.
+(Ja vaevalt et ainult Anvelti tagasiastumise avaldus neid mõtlema paneb.)
+<p>
+Terviseprobleemid on sealjuures põhiline põhjus. <a target=_blank href="http://www.tai.ee/et/terviseandmed/tervisestatistika-ja-uuringute-andmebaas/uuendused/4339-surmad-2017">Tervise Arengu Instituut</a> toob välja, et 2017. aasta juhtiv surmapõhjus Eestis on vereringe elundite haigused
+(8005 inimest aastas). Järgnevad kasvajad (3908 inimest aastas)
+Seedeelundite haigused viisid meie seast 625 kaasmaalast
+ja hingamiselundite haigused 558 inimest. Õnnetustes sai surma
+565, ise tapsid end ära 226. Kurjategija ründe tõttu surid 29 inimest.
+Kurba lugu <a target=_blank href="http://www.tai.ee/images/surmapohjused_2017_fin2.png">aitab mõõtkavasse panna pilt</a>.
+<p>
+Kui meil vähegi ratsionaalsust jagub, peaksime rohelise maskiga meest kuulda võtma.
+Ja tema ei rääkinud Postimehes mitte rändeleppest.
+Taavi Tillmann võrdles kaheksa erakonna valimisprogramme rahvatervise
+seisukohast, ja vaatles viite aspekti. All on tulemused.
+<p>
+<table>
+<tr>
+<td>punkte</td>
+<td>SDE</td>
+<td>ROH</td>
+<td>KESK</td>
+<td>VABA</td>
+<td>E200</td>
+<td>REF</td>
+<td>EKRE</td>
+<td>IRL</td>
+</tr>
+<tr>
+<td>Raha Haigekassale</td>
+<td class=plusone>+1</td>
+<td class=plustwo>+2</td>
+<td class=plusone>+1</td>
+<td class=plustwo>+2</td>
+<td class=minustwo>-2</td>
+<td class=minustwo>-2</td>
+<td class=plusone>+1</td>
+<td class=minustwo>-2</td>
+</tr>
+<tr>
+<td>Efektiivsuse ja solidaarsuse säilitamine</td>
+<td class=plustwo>+2</td>
+<td class=minustwo>-2</td>
+<td class=plustwo>+2</td>
+<td class=minustwo>-2</td>
+<td class=minustwo>-2</td>
+<td class=minustwo>-2</td>
+<td class=minustwo>-2</td>
+<td class=minustwo>-2</td>
+</tr>
+<tr>
+<td>Esmatasandi tugevdamine</td>
+<td class=plustwo>+2</td>
+<td class=minustwo>-2</td>
+<td class=plustwo>+2</td>
+<td class=plustwo>+2</td>
+<td class=plustwo>+2</td>
+<td class=plustwo>+2</td>
+<td class=minustwo>-2</td>
+<td class=minustwo>-2</td>
+</tr>
+<tr>
+<td>Ennetus</td>
+<td class=plustwo>+2</td>
+<td class=minustwo>-2</td>
+<td class=minustwo>-2</td>
+<td class=plusone>+1</td>
+<td class=plustwo>+2</td>
+<td class=minustwo>-2</td>
+<td class=minustwo>-2</td>
+<td class=plusone>+1</td>
+</tr>
+<tr>
+<td>Muud</td>
+<td class=plusone>+1</td>
+<td class=plustwo>+2</td>
+<td class=zero>0</td>
+<td class=zero>0</td>
+<td class=minusone>-1</td>
+<td class=plusone>+1</td>
+<td class=plusone>+1</td>
+<td class=plusone>+1</td>
+</tr>
+</table>
+<p>
+Kes viitsib, saab ülal lingitud artiklist teada, mis erakond mille eest
+kiita ja nahutada sai. Igaühel on häid ja halbu programmipunkte.
+Üldpilt on aga poliitilise spekti paremal poolel masendav -
+ravikindlustuse katte olulisust ei tajuta, Haigekassa tähtsust
+ühiskonnas alahinnatakse. Teemast vaadatakse mööda.
+<p>
+Kuna täna on taas ühe rändeleppe teemalise meeleavalduse kuupäev,
+siis üht tuleb küll öelda: erakonnad, mis kulutavad oma auru ära teemadele,
+mis keskmise Eesti inimese elu karvavõrd kah ei mõjuta
+(rändelepe, samasooliste paaride kooselu, jne),
+teevad endale ja oma valijale prioriteetidega karuteene.
+<p>
+Loodame et valija siiski avastab, et tervis on teema.
+Et ebavõrdsus ja võrdsus on teemad. Et tervist mõjutab igapäevane elu,
+iga viimane kui päev - ning et võrdsust mõjutab iga kuu palk,
+millelt palgatöötajal võetakse tulu- ja sotsiaamaksu,
+aga firma omanikul vaid tulumaksu.
+<p>
+Kui seda loeb keegi Toompeal, kellele Mart Helme parasjagu
+kihutuskõnet rändeleppest peab, hüüdke palun Mardile: <b>"hoi, vana, vaheta plaati kah!"</b>.
+<p>

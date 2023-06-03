@@ -1,0 +1,42 @@
+Plaanimajandus ja Walmart
+2020-06-12
+I. Lepp
+majandus, planeerimine, raamatud
+
+<p>
+
+<div class=illustration-image>
+<a target=_blank href="https://en.wikipedia.org/wiki/File:Helsinki_Metro_It%C3%A4keskus.jpg">
+<img src="./pics/2020-06-12-raudtee-rongiga-helsingis.jpg"><br>
+Ühistranspordi alal toimub tihti planeeritud majandamine<br>
+Allikas: Wikipedia, autor: Gregorius<br>
+Litsents: CC-BY-SA 3.0<p>
+</a>
+</div>
+
+<p>
+Kaua aega on vaieldud, milline viis on kõige parem asjade tootmiseks ja jagamiseks, laiemas mõttes. Kas kogu protsess peaks olema mittevõistlev ja harmooniline (ehk planeeritud) või võistlev ja turumajanduslik?  
+<p>
+Aastal 1920 kirjutas Ludwig von Mises, Austria majandusteadlane, essee nimega “Die Wirtschaftsrechnung im sozialistischen Gemeinwesen” (majandusarvestus sotsialistlikus ühenduses), kus ta väitis, et plaanimajanduse toimimine ei ole matemaatiliselt võimalik. Kuidas saaksid kesksed planeerijad teada piisavalt infot hiiglaslikus majanduses ja teha selle infoga piisavalt arvutusi, et kõike juhtida? Majanduskeskkonna kasvades kasvab vajaliku info ja arvutuste arv plahvatuslikult, ning lõpuks ei suuda ka parim arvuti sellest kõigest selgust teha.
+<p>
+Mises näitas, et mitte ainult ei tööta plaanimajandus praktikas, see ei tööta ka paberil. Aga raamatus “People’s Republic of Walmart” (Walmart’i Rahvavabariik) tõid Leigh Phillips ja Michal Rozworski välja huvitava vastukaalu: Walmart, maailma suurim erakätes tööpakkuja. Walmart teenib aastas 524 miljardit US dollarit, mis paneb ta samasse kaaluklassi kui Rootsi oma 528 miljardise aastase sisemajanduse kogutoodanguga. 
+Walmart on sisemiselt täielikult planeeritud. Walmarti erinevad tootjad, tarnijad, müüjad ja osakonnad ei võistle ja kauple teineteisega, vaid jagavad vabalt tooteid ja infot.
+Kui Mises’el oli õigus, oleks pidanud Walmart ja teise temasugused suured firmad juba ammu lagunenud olema info liiga suurest hulgast.
+<p>
+Walmart planeerib mitmeti. Walmart kasutab nn pidevat täiendamist, kus toote koguse ja toomisaja otsustab tarnija, mitte müüja, et vältida bullwhip effect’i. Walmart oli üks esimesi, kes ühendas elektrooniliselt ladude ja poodide kaubavarude nimekirjad. Võib öelda, et Walmart ei “planeeri”, sest tal pole viie aasta plaane, aga nõudluse tõustes või langedes ei muuda turg Walamarti sisemisi tootmis- ja transpordimehhanisme, vaid Walamart muudab, täpselt nagu ideaalne plaanimajandus peaks vastama inimeste vajadustele.
+<p>
+See kõik ei tee Walmarti unikaalseks, sest kõik firmad maailmas on planeeritud, ehkki Walmart on selles alas mõneti rajaleidja. Aga kui vaba turg on tõepoolest kogu meie tsivilisatsiooni ja rikkuse alus, siis miks ei kasuta firmad sisemiselt turgu, et näiteks IT osakonna teenuseid transpordiosakonnale pakkuda? Aastal 2004 mõtles Eddie Lambert sama asja, kui ta ostis suured Ameerika kaubandusketid Sears ja Kmart ja ühendas need Sears Holdings’uks. Ta jagas Sears Holdings’u kolmekümneks omavahel võistlevaks osaks, justkui väikesteks firmadeks, nagu rõivad, tehnika, inimressursid ja IT. Kui tehnikaosakond tahtis IT teenuseid pidi ta tegema lepingu IT osakonnaga.. või mõne muu firmaga, kui see oli odavam. 
+<p>
+See põhimõte ei olnud edukas. Sears’i kuulus seadmebränd, Kenmore, jagati kaubamärgiosakonna ja seadmeosakonna vahel, mille järel hakkas seadmeosakond müüma mitte-Sears’i brände, sest need olid odavamad. Osakondade kohtumised olid täis karjumist ja vaidlemist, juhid panid oma arvutitele ekraanikatted, et vastasosakondade juhid ei näeks nende plaane. 
+<p>
+Kui planeerimine on nii iseenesestmõistetavalt parem firma sees, siis miks on see sama iseenesestmõistavalt halb firmast väljaspool? Me saaksime võtta Walmart’i laadseid planeerimistehnikaid kasutusse demokraatlikult juhitud ühiskonnas, pannes nad tööle mitte eesmärgiga “võimalikult suur kasum” vaid hoopis “asjad nendele, kes neid vajavad”. See kõlab kaugelt liiga lihtsustatult, ja see on, aga see on teekonna algus, mitte täpne kaart õnneliku lõpuni.
+<p>
+Planeerimine majanduses on juba kõikjal meie ümber, tahame me seda või mitte, ja see töötab, lihtsalt mitte meie jaoks.
+<p>
+Ning juhul kui keegi väga tahab mind valesti mõista, ei, ma ei taha Nõukogude Liitu ega midagi sarnast tagasi.
+<p>
+<i>Autori Redditi-nimi on u/SnapCracle_FizzelPop.</i>
+</p>
+
+</div>
+

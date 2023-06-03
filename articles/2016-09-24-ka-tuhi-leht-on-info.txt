@@ -1,0 +1,43 @@
+Ka tühi leht on info
+2016-09-24
+1 MΩ
+valimised, hääletamine, ülekantav hääl
+
+<p>
+Täna on kuumaks teemaks presidendivalimised.
+<p>
+Anarhistina ma ei osale nendel, ega pürgi neid mõjutama ühelgi viisil, küll aga luban omale neid kõrvalt
+vaadata – ning mõistan südamest neid valimiskogu liikmeid, kes lasid kasti tühja lehe või rikkusid sedeli.
+Minu kolleegid on seda väljaspool valimiskogusid ammustest aegadest teinud – isegi siis kui neid on
+kohustatud valima.
+<p>
+Kindlasti lähevad nüüd liikvele jutud, et “põhiseadus on katki” või “valimissüsteem on katki” – et tühja
+sedeli andmine on taunitav, või et häälte lugemine vajaks drastilisi muutusi.
+<p>
+Lugupeetud riigi-inimesed – teie süsteem pole katki. Vaadake uuesti – see ju töötab. Tühi sedel on
+üsna oluline info, ja imekombel on siitkandi seadustik saanud nõnda, et ei sunni valimiskogu liiget valima.
+Ta võib anda tagasiside, et pakutavad valikud pole piisavad. Ühe ametikoha täitmisel ühe isikuga on see
+päris väärtuslik tagasiside.
+<p>
+Kandidaatide endi reaktsioonid kinnitavad, et säärane tagasiside on tähtis. Mõlemad lõppvooru
+kandidaadid, nii Allar Jõks kui Siim Kallas tunnevad kahtlemata mänguteooriat enam kui veidi.
+Mõlemad lugesid lõppvooru tulemusest välja omale olulise sõnumi.
+<p>
+Kui aga pettumust valmistab teadmata pikkusega protsess, on mul teile üks lihtne idee selle kiirendamiseks:
+kasutage mitme eelistusega hääli. Mitme eelistusega hääletamisel märgib hääletaja sedelil esimesse
+välja oma lemmiku, teise välja teise eelistuse, ja kolmandasse kolmanda. Pingerida võib olla kuitahes pikk.
+Inglise keeles kutsutakse seda "ranked voting system", "transferable vote" või "instant runoff voting
+system". Mitmed maad kasutavad selle variatsioone edukalt ( https://en.wikipedia.org
+/wiki/Ranked_voting_systems ).
+<p>
+Tegemist on tavapärasest paindlikuma ja ette mõtlemist võimaldava valimissüsteemiga, mis lubab
+korraldada kohesed lisavoorud koheselt. Lisavoorudes võib sealjuures kehtida kas sama või erinev
+lävendi artimeetika, ja sellel on ette mõtlemise tulemustele ka oluline mänguteoreetiline mõju (ehk: olge
+hoolsad ja tutvuge enne kasutamist toote juhendiga).
+<p>
+Mitme eelistusega süsteem ei keela tühja sedeli kasti laskmist, vaid annab ratsionaalse väljundi neile, kes
+seda muidu peaksid tegema.
+<p>
+Lisaks vähendab see häälte “kaotsiminekut”, mis vaevab üldise probleemina kõiki esindusdemokraatia
+süsteeme.
+</p>

@@ -1,0 +1,24 @@
+<html lang="et">
+<head>
+<meta charset="utf-8">
+<title>#TITLE</title>
+<meta name="description" content="Perestroika: #DESCRIPTION">
+<meta name="keywords" content="#KEYWORDS">
+<link rel="stylesheet" href="./style.css">
+<link rel="icon" href="favicon.png" sizes="16x16" type="image/png">
+</head>
+
+<body>
+	
+<a href=index.html><span class=activetab>Artiklid</span></a>
+<a href=programm.html><span class=passivetab><font color=darkred>Perestroika programm</font></span></a>
+<a href=program_en.html><span class=passivetab><font color=darkred>in english</font></span></a>
+<a href=program_ru.html><span class=passivetab><font color=darkred>на русском</font></span></a>
+<a href=links.html><span class=passivetab><font color=blue>Mujal toimub</font></span></a>
+<a href=meta.html><span class=passivetab>Meta</span></a>
+<a href=promo.html><span class=passivetab>Promo</span></a>
+
+<div class=page>
+<div class=menu>
+
+ 

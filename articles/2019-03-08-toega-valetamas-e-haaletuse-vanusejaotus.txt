@@ -1,0 +1,57 @@
+Tõega valetamas: e-hääletuse vanusejaotus
+2019-03-08
+perestroika.pw
+e-hääletus, kuulujutt, valeuudis
+
+<p>
+Redditis jäi silma ühe kaas-kasutaja mure, et
+<a target=_blank href="https://www.reddit.com/r/Eesti/comments/ayngwy/kas_eestis_on_facebookis_sisu_moderaatoreid/">
+kas Eesti Facebookis on sisu moderaatoreid</a>. Nimelt levib seal
+taas kuulujutt / valeuudis, mis seekord toob manipuleeritud esitusviisiga
+2015. aasta Riigikogu valimiste e-hääletuse statistika,
+ilmselt eesmärgiga seada kahtluse alla e-hääletuse õigsus.
+<p>
+Esitusviisi manipuleerimine on üks kavalamaid tõega valetamise viise,
+kuna ise saab jääda puhtaks poisiks ja manipulatsiooni
+märkamiseks on vaja tähelepanu.
+On vist õiglane öelda, et enamus Facebookis pesukaru videosid
+jagavaist inimestest ei rakenda toimuvale oma tähelepanu kõrgeimat taset.
+Tulemusena jääb märkamata, et vanusegrupi "kuuekümnest
+aastast maksimaalse elueani" laius on ca. 40 eluaastat,
+eelneva vanusegrupi "55-59 aastased" laius on aga 4 eluaastat.
+<a target=_blank href="https://www.valimised.ee/et/valimiste-arhiiv/elektroonilise-haaletamise-statistika">
+Valimiskomisjoni veebileht</a> ei esita andmeid niimoodi,
+vaid läheb vanusegruppideks jagamisega 75. eluaastani välja.
+<p>
+<img class=illustration-image src="./pics/e-haali-vs-vanus-rk2015-rk2019.png">
+<p>
+Vaatame kõigepealt paremal olevat graafikut moonutamata esitusviisis andmetega:
+<p>
+Nüüd vaatame kuulujutu aluseks olevat <a target=_blank href="https://www.virgokruve.com/meedia/2015/03/150305e-valijate-vanus.jpg">
+moonutatud esitusega teavet</a>. Kas tõega valetamine
+oli eeldatava autori Virgo Kruve eesmärk, ei tea meie arvata.
+Tõdeme vaid, et tema graafik elab võõrastes kätes kuulujutuna oma elu
+ja eksitab inimesi.
+<p>
+Mujal uudistes teatas aga <a target=_blank href="https://www.facebook.com/piraadipartei">Piraadipartei</a>, et e-hääletamise
+vaatlemine on jätkuvalt kontimurdev töö. Nad soovivad,
+et uus Riigikogu võtaks siduva seisukoha selle kohta,
+et e-hääletamine muudetakse krüptograafiliste (s.t. mitte
+korralduslike) võtegega otsast lõpuni kontrollitavaks.
+<p>
+Krüptograafiline kontrollitavus pole kerge eesmärk,
+aga kui Eesti seda suudaks, oleks see päris nunnu rahvusvahelise
+elevuse allikas. Piraadipartei rahva-algatusega
+saate tutvuda ja seda <a target=_blank href="https://rahvaalgatus.ee/initiatives/c04252b3-b0a2-4e83-9eb9-3b935320cd3a">
+allkirjastada siin</a>. Sealsamas kõrval saate arutleda algatuse üle kutsuda natsi-iba ajanud 
+<a target=_blank href="https://rahvaalgatus.ee/initiatives/fa8cf4d3-5413-47be-9a5b-fa0dfbc73d59">Ruuben Kaalep Riigikogust tagasi</a>
+(tagasikutsumine veel hääletusel ei ole).
+<p>
+Meil ei ole täna põhjust kahelda, et e-hääletamisega
+oleks midagi valesti läinud. Küll aga on Perestroika
+toimetus veendunud, et ükskord võidab Anonüümne niikuinii,
+kui mitte hiljem siis poliitilise parteina ausatel valimistel.
+Et tulevikus teada saada, ega Anonüümne dopingut pole tarvitanud,
+oleks parem, kui selleks päevaks oleks süsteemis
+rohkem krüptot ja vähem usaldamist.
+<p>

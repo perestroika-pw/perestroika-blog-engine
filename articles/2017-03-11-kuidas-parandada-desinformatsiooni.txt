@@ -1,0 +1,68 @@
+Kuidas parandada desinformatsiooni?
+2017-03-11
+1 MΩ
+tõde, vale, ego, taju, desinformatsioon
+
+<p> 
+Tristan Bridges-i artikli "Why People Are So Averse To Facts?" originaal ilmus väljaandes "Sociological
+Images" 27. veebruaril 2017. Käesolev on selle nahhaalne tõlge.
+<p>
+Viimasel ajal on pealkirjades koha leidnud väitlus kõikvõimalikku sorti faktide üle, ajal mil kasvõi näiteks
+Trumpi administratsioon jätkab avalduste, raportite ja poliitikatega etteastumist, mis teadaolevaid tõsiasju
+arvesse ei võta.
+<p>
+Ükskõik, kas jututeemaks on ametisse vannutamise vaadanute arv, ilmselgelt väärad ja hirmutavad
+ebatäpsused transsooliste inimeste WC-kasutusest, või hoopis väited kuritegevuse tasemest USAs, hiljuti
+tundub, et faktid ei loe, suva neist. Ebatäpsused ja desinformatsioon jätkuvad hoolimata ausatest katsetest
+neid parandada. See on väsitav. Aga miks see toimub?
+<p>
+Mõned ebatäpsused on vägagi säärased, et neid peaks kerge ümber lükata olema. Andmed lihtsalt ei toeta
+neid avaldusi. Kaalutleme näiteks graafikuid, mis jäädvustavad isiku- ja varavastaste kuritegude taset USAs
+viimase 25 aasta jooksul (mõõdetuna Õigusstatistika Büroo [Bureau of Justice Statistics]) poolt.
+<p>
+Üldine trend on väljaspool mingit vaidlust. Kuritegevus on 25 aasta vältel kestvalt langenud.
+Graafik näitab 1993. aastal 79.8 vägivaldse kuriteo ohvriks langemist 1000 inimese kohta aastas,
+ning aastal 2015 näitab sama graafik 18.6 juhtumit 1000 inimest kohta aastas.
+<p>
+Nüüd aga võrrelgem kuritegevuse taset avalikkuse muljega kuritegevuse tasemest, kogujaks Gallup.
+Aastast 1989 (jah 84%) aastani 1998 (jah 50%) arvas enamus inimesi, et kuritegevus tõuseb.
+Aastatel 1998...2001 arvasid enamus inimesi napilt, et kuritegevus langeb.
+Sellest ajast kuni tänapäevani arvavad nad taas, et kuritegevus on tõusmas,
+ning kuritegevus ise muidugi langeb.
+<p>
+Kugi kuritegevus objektiivses maailmas läheb selgelt allapoole, tunnetab enamus USA avalikkust,
+nagu kuritegevus tõuseks iga aasta. Kui see tegelikult langeb, siis miks inimesed nii arvavad? See ei vasta ju
+tõele.
+<p>
+Põhjuseid on toimuvale mitu. Kuid üks põhjus, miks arvan et “alternatiivsete faktide tööstus” niivõrd tõhus
+on olnud, on efekt mida sotsioloogias tuntakse “tagasilöögi efektina” (backfire effect).
+<p>
+Üldise reeglina ei muuda desinformeeritud isikud oma arvamust isegi siis, kui neile esitletakse nende
+arvamusele vastanduvaid fakte. Kuid veelgi enam: inimesed säärases olukorras kinnistuvad veelgi enam
+oma eksiarvamuse külge. Faktiline teave “annab tagasilöögi”.
+<p>
+Kui inimesed sinuga ei nõustu, viitab sotsioloogia kogemus, et pelgalt oma arvamuse faktide abil toetamine
+ei tarvitse su eesmärke saavutada, vaid võib oponenti sind hoopis vähem uskuma kallutada. Teisisõnu,
+desinformatsiooni vastu võitlemine faktidega on nagu põleva õli kustutamine veega – tundub, nagu võiks
+töötada, aga tegelikult teeb asjad halvemaks.
+<p>
+Et efekti mõju täpsemalt uurida, korraldasid Brendan Nyhan ja Jason Reifler (aastal 2010) katsete seeria.
+Nad lasid osalejate gruppidel lugeda ajaleheartikleid mis sisaldasid poliitikute avaldusi, toetamas mõnd
+ülelevinud desinformatsioonilist väidet. Osad osalejad lugesid artikleid, mis sisaldasid korrektiivset infot
+kohe pärast poliitiku suu läbi edastatud desinformatsiooni, teised aga lugesid artiklite versioone, kus
+mistahes korrektiivset teavet polnud.
+<p>
+Pärast küsiti osalejatelt seeria küsimusi artikli kohta, ning nende isiklike arvamuste kohta selle teemal.
+<p>
+Nyhan ja Reifler leidsid, et see, kuidas inimesed reageerisid faktivigade korrektiividele artiklis, sõltus
+süstemaatiliselt sellest, kuivõrd ideoloogiliselt pühendunud nad juba faktidega toetatud teemale olid. Nende
+hulgas, kes desinformatsiooni eelnevalt uskusid, ei põhjustanud täiendav informatsioon ega uskumust
+vaidlustavad faktid arvamuse muutust – vastupidiselt toimus ideoloogiliasse kinnituvate eksiarvamuste
+tugevnemine.
+<p>
+Tegemist on sotsioloogilise teemaga, mis vajab, et temaga tegeldaks.
+Kuidas parandada väärinfot, kui selle parandamise katse vaid suurendab inimeste pühendumust
+arvamustele, mis ei vasta tõele?
+<p>
+Artikli ajendanud uuring: "When Corrections Fail: The Persistence of Political Misperceptions"
+</p>

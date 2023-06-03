@@ -1,0 +1,71 @@
+Raha ei muuda laisaks
+2018-11-03
+Jaan Veski
+majandus, Alaska, põhisissetulek
+
+<p>
+Alati, kui keegi majandusteemalises arutelus ütleb sõna "põhisissetulek",
+üritab keegi tema lauset lõpetada sõnadega "muudab laisaks!",
+täpselt nagu teises sõnamängus esimene hüüab "karu!"
+ja teine püüab kohe järgi hüüda "püksid!".
+Küsimus on siis, kas karu või karupüksid? :P
+<p>
+Miks ma seda kirjutan? Perestroika programmis teatavasti pole
+tingimusteta põhisissetulekut. Seda põhjusel, et ühiskonnas on veel võimalik
+oma tööjõudu müües adekvaatselt raha teenida, ja lisaks näeme <b>riigi kaudu</b> tehtud
+tingimusteta põhisissetulekus teatud riske - selliseid, mida sõltumatu metssiga
+pidanuks nägema inimese pakutud lauta kolimisel.
+<p>
+Kui me soovime riigi kaotamist, ei saa me näha riiki kõige lahendamise tööriistana.
+Meie näeme lahendusena tööliste võrdomandis olevaid firmasid,
+ning riigi järk-järgulist taandumist ühiskonnast, kus solidaarsus
+teostub muude kanalite kaudu.
+<p>
+Küsimus aga jääb: kas UBI (universal basic income) muudab inimesed laisaks,
+või pelgalt võimaldab neil valida vabamalt, mis tööd teevad?
+Maailmas on meie teada ainult üks koht, kus UBI sarnast asja
+pikemat aega harrastatakse, see on naftarikas Alaska osariik USAs.
+Asja nimi on <a target=_blank href="https://pfd.alaska.gov">Alaska Permanent Fund Dividend</a>,
+mida ei torma ära kaotama ei vabariiklased ega demokraadid.
+<a target=_blank href="https://news.slashdot.org/story/18/10/31/2244240/alaskas-universal-basic-income-doesnt-increase-unemployment">Slashdot'i vahendusel</a>
+jõudis siia artikkel <a target=_blank href="https://www.businessinsider.com/alaska-universal-basic-income-employment-2018-10">Business Insider'ist</a>
+pealkirjaga "Alaska üldine põhisissetulek ei tõsta töötuse määra".
+<p>
+Kõigepealt ajaloost. Alaska Permanent Fund on seotud naftatuludega
+ja fondi väärtus on ca. 65 miljardit dollarit. Fond on maksnud aastast 1982
+praktiliselt igale osariigi kodanikule väljamakse väärtuses ca. 1000..2000 dollarit aastas. 
+<p>
+Kartus, et tingimusteta väljamaksed võivad vähendada inimeste
+viitsimust osaleda tööturul, on ammusest ajast teadaolev asi.
+Nüüd on Chicago Ülikool ja Penssylvania Ülikool 
+võtnud vaevaks uurida, kas see väide võiks Alaska puhul tõele vastata.
+Uurimuse enda leiab <a target=_blank href="https://home.uchicago.edu/~j1s/Jones_Alaska.pdf">siit</a>.
+<p>
+Uurijad võtsid Alaska kõrvale kontrollgrupiks osariigid,
+mille majanduslik profiil sarnanes enne väljamaksete algamist
+enim Alaska omaga. Vaadeldi töötavate elanike arvu suhet elanike arvuga,
+samuti osalise tööajaga töötajate suhtarvu.
+Nüüd on aeg sõna-sõnalt tsiteerida:
+<p>
+<i>"Oma eelistatud spetsifikatsioonis ei tähelda me Alaska Permanent Fund'i
+mingisugust mõju tööhõive määrale (extensive margin). Küll aga täheldame
+1.8 protsendipunktist tõusu (suhteliselt 17% suurust tõusu) osalise tööajaga töötavate
+Alaska elanike osakaalus. Sekundaarsete tulemuste (nt. tööpanus ja töötunnid)
+analüüs on kvalitatiivselt sobiv meie primaarse tulemusega ja kinnitab seda.
+<p>
+Meie andmetes nähtud mustrite eelistatud tõlgendus on, et mõju puudumise tööhõivele
+seletab ära positiivne tagasiside majanduse üldtasakaalu kaudu,
+mis nullib ära negatiivse tagasiside sissetuleku kaudu. Võib olla,
+et tingimusteta sissetulek suurendab tarbimist, mis stimuleerib nõudlust tööjõu järele,</i>
+[mis leevendab võimalikku vähenenud tööjõu pakkumist]."
+<p>
+Niisiis, karu! Ning ärge üritage sealt paremalt hüüda, et püksid.
+Riigiusku sotsialistid, võite tähelepaneku hõlma all uksest välja viia. :)
+Meie poliitilisse programmi seda aga siiski ei võtaks,
+anarhismi pühadel betoontahvlitel on kirjas, et riigi osakaal langeb
+ja sotsialism tehakse vähema riigitamisega valmis.
+Muide, kui raha muudaks laisaks, siis kuidas mõned inimesed miljardäriks saavad?
+Ilmselgelt nad oleks pidanud oma esimese miljoni otsa magama jääma. :P
+</p>
+
+

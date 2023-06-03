@@ -1,0 +1,109 @@
+Toas on elevant, ma pole tema klient
+2018-10-24
+Finrod F.
+Google, Facebook, andmetööstuskompleks, privaatsus
+
+<p>
+Tsiteerin algatuseks üht inimest, kelle firma mulle ei meeldi.
+Nende tooted on kallid, paindumatud ja nende ökosüsteem kinni keevitatud.
+Ainult ühte teevad nad seni õigesti: nad ei äritse kasutaja andmetega.
+Selle mehe tsiteerimine kulub mulle harjutuseks ära. Olgu pealegi
+ebameeldiv firma, tüüp räägib vahelduseks tõtt ja olulisel teemal.
+Tim Cook (Apple'i tegevjuht) võttis sõna andmetööstuskompleksi osas
+ning juttu <a target=_blank href="https://techcrunch.com/2018/10/24/apples-tim-cook-makes-blistering-attack-on-the-data-industrial-complex/">
+vahendab meile</a> Tech Crunch.
+<p>
+Tim ütles "kuulge, teil on elevant toas".
+Kõik vaatasid ja nägid tõepoolest halli loomakest, ühel küljel
+sinine valge kirjatähega logo, teisel aga mitme värvilise tähega sõna.
+Loomake maskeerus parasjagu sektsioonkapiks, aga oli selgelt äratuntav.
+Appi, elevant! Kuidas see tuppa pääses?
+<p>
+Cook tegelikult elevandi nime ei nimetanud, üknes et toas on firmasid,
+kelle ärimudel põhineb privaatsuse kahjustamisel. Nende üldnimetus
+võiks olla "suured vahendajad". Nad aitavad teil asju leida
+ja suhteid sõlmida. Neile usaldate oma tähelepanu ja andmed.
+Iseäralik on, et nad ei küsi teilt raha, kannustavad sisse logima,
+tahavad teada, mis teile meeldib (nii otse küsides kui üle õla vaadates)
+ning tahavad väga soovitada asju.
+<p>
+Midagi on valesti, eks? Järsku me pole neile kliendid,
+vaid mingi loodusvara või lambakarja moodi asi?
+Osad neist on karmimad kui teised. Kui ma tipin Google'isse
+märksõna "Nissan", püüab ta koheselt aru saada, kes ma olen,
+kas mul on Nissan, kas ma olen hiljuti ostnud Nissani varuosi,
+või mida kuradit ma sellega mõtlen. :) Kui teen sama <a target=_blank href="https://duckduckgo.com/">DuckDuckGo</a> saidil,
+siis tema vaatab üksnes märksõna. Ta ei mäleta teid, ega ürita meelde jätta.
+Kui keegi maksis talle, et näita seda kirjutavatele inimestele Tallinnas seda reklaami,
+siis ta näitab, ilma mu isiklikku elu lahti mõtestamata.
+<p>
+<i>“Meie oma andmeid - igapäevasest sügavalt isiklikuni - kasutatakse
+meie vastu relvana,"</i> ütles Cook. <i>"Need riismed, mis igaüks üksinda on ohutud,
+korjatakse hoolega kokku, sünteesitakse üldistusteks ja neid müüakse."</i>
+<p>
+<i>"Oma loogilise lõpu ja äärmuseni viiduna loob see protsess
+jäädava digitaalse profiili, ja võimaldab firmadel tunda teid
+paremini, kui ehk tunnete iseendid. Teie profiili saab arendada,
+serveerides teile üha äärmuslikumat sisu, muljudes kahjutud eelistused
+kahjuks. Me ei peaks tulemusi suhkurdama. See on jälitamine,"</i> lisas ta.
+<p>
+Kes lasi elevandi tuppa? Kes on säärase olukorra võimaldanud?
+Siinkohal on minu kord sõna sekka öelda. Võimaldaja on meie janu
+hõlpsa elu järele. Soovime mugavust, lihtsust ja tasuta asju.
+Meid ei huvita, mis on kapoti all, peamine et sõidab.
+Kui me selle menüü peale magustoiduks turvalisust nõuame,
+hakkavad inimesed nagu Bruce Schneier (tema <a target=_blank href="https://www.schneier.com/">blogi</a> on huvitav) lihtsalt naerma.
+Teised jälle nutma. Me tahame võimatut.
+<p>
+Me kas teame, mida me teeme - või ei tea, ja keegi teab meie eest (ning teab meie kohta).
+Me kas saame tasuta teenuseid, andes nende nimel kolm tilka infot,
+või me hakkame päris kliendiks - selleks, kes maksab ja omab kontrolli.
+Alternatiivina võime õppida pruukima vaba tarkvara ja tegema vahet
+mõistetel "free as beer" ning "free as freedom".
+Kooki ei saa korraga süüa ja homseks hoida.
+<p>
+Hiljutine uuring <a target=_blank href="https://arxiv.org/pdf/1804.03603.pdf">Third-Party Tracking in the Mobile Ecosystem</a>
+järeldas, et <b>üheksa kümnest Androidi rakendusest</b> jagab andmeid kolmandate osapooltega.
+Tsiteerin: <i>"All on esitletud empiiriline uurimus 959 000 Androidi äpi kohta,
+mis olid saadaval USA ja UK Google Play poodides. Leidsime, et enamus äppe
+sisaldab kolmandate osapoolte jälitusotstarbega komponente,
+ning tracker'ite jaotus on "pika sabaga", kus vähesed domineerivad trackerid
+hõlmavad enamuse kattest [ning paljud vähemlevinud ülejäänu].
+Trackerite ulatuslikkus sõltub kategooriast, ja on eriti intensiivne
+uudiste-äppides ja lastele mõeldud äppides."</i>
+<p>
+Et kõik mõistaks, kuidas elevant tuleb tuppa, tsiteerin veel:
+<i>"Säärast ärimudelit võimaldavad peamiselt arendajate poolt
+oma rakendustesse kaasatud 'kolmanda osapoole' trackerid."</i>
+Programmeerijalt programmeerijale tuleks mul öelda: meie, tarkvarainsenerid,
+kellel peaks olema teatav tööeetika, oleme läinud libedale teele
+ning nõustunud elama reklaamitulust, selle asemel et kasutaja
+meie tooteid päriselt ostaks. Kasutaja, uimane nagu ta on,
+on samuti konksu alla neelanud, sest tahab tasuta äppe.
+<p>
+Elu võiks käia teisiti. Maailmas võiks õitseda tuhandeid
+vabatarkvara projekte, mis pakuvad usalusväärseid äppe
+ja elavad kasutajate otseannetustest, ilma et Google
+sealt viilukestki saaks. See aga pole Google'i huvides.
+Meie huvid ei ole Google'i huvides.
+<p>
+Facebook saab järgmise sahmaka, hoidke alt. :)
+Saksamaa andmeid kasutav uuring on
+<a target=_blank href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3082972">näidanud</a>,
+et Facebooki kasutus linnas on korrelatsioonis vihakuritegude sagedusega
+samas linnas, isegi kui tulemust kontrollida korrelatsiooni vastu
+interneti üldise kasutusega ja mitmete muude teguritega.
+<p>
+Lühidalt võiks teha järelduse, et Facebook võimaldab inimestel
+elada infomullides, tarbida neile ette söödetud kuulujutte
+ja kõmu, lisaks veidi hoolikalt manipulatiivset sisu,
+ning arvata selle põhjal, et nad mõistavad ümbritsevat maailma.
+Paraku osutab ümbritsev maailm vastupidist.
+<p>
+Valik on meie. Kasutajate, arendajate. Mida me ikka päriselt tahame?
+Elada maailmas, mis on autopiloodil, olles ise autopiloodil, või mõjutada tulevikku?
+Korraga mõlemat ei saa. Mõjutamiseks on vaja sisendit reaalsusest,
+ja teavet selle kohta, kuidas protsessid käivad.
+<p>
+Perestroika muuseas, ei pannud teie arvutisse veerandit küpsist kah. Tehke järgi! :D
+</p>

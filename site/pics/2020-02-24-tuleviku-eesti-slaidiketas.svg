@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 793.70079 793.7008"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="2020-02-24-tuleviku-eesti-slaidiketas.svg"
+   inkscape:version="0.92.1 r15371">
+        <rect width="100%" height="100%" fill="black"/>
+  <metadata
+     id="metadata322">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="709"
+     id="namedview320"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.45968013"
+     inkscape:cx="23.764872"
+     inkscape:cy="561.25984"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <defs
+     id="defs178">
+    <radialGradient
+       id="rainbow-gradient"
+       cy="41.517742"
+       fx="10.865661"
+       fy="41.517742"
+       r="460.39282"
+       cx="105.03692"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.7659206,0,0,3.7659206,3.1587718,4.46722)">
+      <stop
+         offset="0%"
+         stop-color="#FF4040"
+         id="stop163" />
+      <stop
+         offset="5%"
+         stop-color="#FF8020"
+         id="stop165" />
+      <stop
+         offset="15%"
+         stop-color="#FFFF20"
+         id="stop167" />
+      <stop
+         offset="30%"
+         stop-color="#40FF40"
+         id="stop169" />
+      <stop
+         offset="40%"
+         stop-color="#4040FF"
+         id="stop171" />
+      <stop
+         offset="50%"
+         stop-color="#4020A0"
+         id="stop173" />
+      <stop
+         offset="60%"
+         stop-color="#8020FF"
+         id="stop175" />
+    </radialGradient>
+  </defs>
+  <path
+     id="path1"
+     style="fill:url(#rainbow-gradient);fill-rule:evenodd;stroke:#000000;stroke-width:0.9963997;stroke-opacity:1"
+     d="M 792.26719,397.24774 A 393.54767,393.54767 0 0 1 400.24608,790.79228 393.54767,393.54767 0 0 1 5.1836698,400.30084 393.54767,393.54767 0 0 1 394.13989,3.72669 393.54767,393.54767 0 0 1 792.2198,391.14167"
+     inkscape:connector-curvature="0" />
+  <text
+     x="184.01326"
+     y="249.31975"
+     font-size="6"
+     font-weight="bold"
+     transform="rotate(21)"
+     id="text181"
+     style="font-weight:bold;font-size:22.59552383px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ESITLUS</text>
+  <text
+     x="157.09703"
+     y="301.93231"
+     font-size="7"
+     font-weight="bold"
+     transform="rotate(15)"
+     id="text183"
+     style="font-weight:bold;font-size:26.36144257px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Tuleviku</text>
+  <text
+     x="116.70868"
+     y="367.16312"
+     font-size="10"
+     font-weight="bold"
+     transform="rotate(7)"
+     id="text185"
+     style="font-weight:bold;font-size:37.65920258px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Eesti</text>
+  <text
+     x="227.36844"
+     y="-29.45726"
+     font-size="8"
+     font-weight="bold"
+     transform="rotate(50)"
+     id="text187"
+     style="font-weight:bold;font-size:30.12736511px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">AITÄH !</text>
+  <text
+     x="233.202"
+     y="19.754948"
+     font-size="4"
+     font-weight="bold"
+     transform="rotate(45)"
+     id="text189"
+     style="font-weight:bold;font-size:15.06368256px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">perestroika.pw</text>
+  <text
+     x="59.647579"
+     y="418.71863"
+     font-size="4.5"
+     font-weight="bold"
+     id="text191"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Tuleviku Eestit</text>
+  <text
+     x="23.278299"
+     y="451.93515"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-5)"
+     id="text193"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ei valitse eliit.</text>
+  <text
+     x="-15.847734"
+     y="481.85599"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-10)"
+     id="text195"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Ta valitseb end</text>
+  <text
+     x="-57.432514"
+     y="508.25363"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-15)"
+     id="text197"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">loteriiga loodud</text>
+  <text
+     x="-101.15972"
+     y="530.92377"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-20)"
+     id="text199"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Rahvakogu abil</text>
+  <text
+     x="-146.69662"
+     y="549.69916"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-25)"
+     id="text201"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">mille liige</text>
+  <text
+     x="-193.69647"
+     y="564.43427"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-30)"
+     id="text203"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ei naase võimule</text>
+  <text
+     x="-241.80154"
+     y="575.01605"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-35)"
+     id="text205"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">küsib eksperdilt</text>
+  <text
+     x="-290.64618"
+     y="581.36487"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-40)"
+     id="text207"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ega saa kasu</text>
+  <text
+     x="-339.85822"
+     y="583.43274"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-45)"
+     id="text209"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ärplemisest.</text>
+  <text
+     x="-243.5144"
+     y="459.07397"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-50)"
+     id="text211"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064" />
+  <text
+     x="-437.88651"
+     y="574.69452"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-55)"
+     id="text213"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Tuleviku Eestis</text>
+  <text
+     x="-485.95676"
+     y="563.95483"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-60)"
+     id="text215"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ei maksta töölt</text>
+  <text
+     x="-532.90771"
+     y="549.06592"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-65)"
+     id="text217"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">rohkem maksu</text>
+  <text
+     x="-578.38226"
+     y="530.14227"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-70)"
+     id="text219"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">kui dividendilt.</text>
+  <text
+     x="-622.03583"
+     y="507.32767"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-75)"
+     id="text221"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Makstakse üht</text>
+  <text
+     x="-663.53387"
+     y="480.79443"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-80)"
+     id="text223"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">astmelist maksu.</text>
+  <text
+     x="-702.56189"
+     y="450.74643"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-85)"
+     id="text225"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Ravikindlustus</text>
+  <text
+     x="-738.82178"
+     y="417.41003"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-90)"
+     id="text227"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">on kõigile.</text>
+  <text
+     x="-582.76166"
+     y="397.60034"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-95)"
+     id="text229"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064" />
+  <text
+     x="-801.95935"
+     y="341.91489"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-100)"
+     id="text231"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Tuleviku Eestis</text>
+  <text
+     x="-828.35559"
+     y="300.32977"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-105)"
+     id="text233"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">pole oligarhia,</text>
+  <text
+     x="-851.02875"
+     y="256.60272"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-110)"
+     id="text235"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">valitsemine</text>
+  <text
+     x="-869.80316"
+     y="211.06628"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-115)"
+     id="text237"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ja kuritegevus</text>
+  <text
+     x="-884.53741"
+     y="164.06592"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-120)"
+     id="text239"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">meeste tööd</text>
+  <text
+     x="-895.11932"
+     y="115.9606"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-125)"
+     id="text241"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ega üldse popid.</text>
+  <text
+     x="-901.46735"
+     y="67.116516"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-130)"
+     id="text243"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Kellelgi pole</text>
+  <text
+     x="-903.53534"
+     y="17.904182"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-135)"
+     id="text245"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">võimu sulgeda</text>
+  <text
+     x="-901.3078"
+     y="-31.300436"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-140)"
+     id="text247"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">pooled apteegid</text>
+  <text
+     x="-894.79779"
+     y="-80.123947"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-145)"
+     id="text249"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ja ajalehed</text>
+  <text
+     x="-884.05817"
+     y="-128.19408"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-150)"
+     id="text251"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">sest eraomand.</text>
+  <text
+     x="-788.87219"
+     y="-2.947094"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-155)"
+     id="text253"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064" />
+  <text
+     x="-850.2464"
+     y="-220.62042"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-160)"
+     id="text255"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Ühiskond toetab</text>
+  <text
+     x="-827.43097"
+     y="-264.27307"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-165)"
+     id="text257"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">firmade loomist</text>
+  <text
+     x="-800.89722"
+     y="-305.77112"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-170)"
+     id="text259"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">milles töötajal</text>
+  <text
+     x="-770.84973"
+     y="-344.79907"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(-175)"
+     id="text261"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">on hääleõigus</text>
+  <text
+     x="-737.51324"
+     y="-381.05927"
+     font-size="4.5"
+     font-weight="bold"
+     transform="scale(-1)"
+     id="text263"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ja osalus.</text>
+  <text
+     x="-717.70349"
+     y="-224.99913"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(175)"
+     id="text265"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064" />
+  <text
+     x="-662.01855"
+     y="-444.19684"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(170)"
+     id="text267"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Tuleviku Eestis</text>
+  <text
+     x="-620.43304"
+     y="-470.59418"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(165)"
+     id="text269"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">haridus harib</text>
+  <text
+     x="-576.70557"
+     y="-493.26462"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(160)"
+     id="text271"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">võimalusi jagub</text>
+  <text
+     x="-531.1687"
+     y="-512.03986"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(155)"
+     id="text273"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ilma ei jäeta</text>
+  <text
+     x="-484.16919"
+     y="-526.77502"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(150)"
+     id="text275"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ja mõistetakse</text>
+  <text
+     x="-436.06372"
+     y="-537.35675"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(145)"
+     id="text277"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">et riik polegi</text>
+  <text
+     x="-387.21909"
+     y="-543.70569"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(140)"
+     id="text279"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">eesmärk ise</text>
+  <text
+     x="-338.00781"
+     y="-545.77368"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(135)"
+     id="text281"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">vaid pidi ikka</text>
+  <text
+     x="-288.80347"
+     y="-543.54364"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(130)"
+     id="text283"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">inimesi aitama.</text>
+  <text
+     x="-395.61829"
+     y="-428.05554"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(125)"
+     id="text285"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064" />
+  <text
+     x="-191.90852"
+     y="-526.29559"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(120)"
+     id="text287"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Tuleviku Eesti</text>
+  <text
+     x="-144.95747"
+     y="-511.40686"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(115)"
+     id="text289"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ei põhine</text>
+  <text
+     x="-99.483116"
+     y="-492.48331"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(110)"
+     id="text291"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">põletatud kivi</text>
+  <text
+     x="-55.829807"
+     y="-469.66846"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(105)"
+     id="text293"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">taktikal. Suvel</text>
+  <text
+     x="-14.331985"
+     y="-443.13528"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(100)"
+     id="text295"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ja tormi ajal</text>
+  <text
+     x="24.695827"
+     y="-413.08722"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(95)"
+     id="text297"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">täidetakse</text>
+  <text
+     x="60.956093"
+     y="-379.75082"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(90)"
+     id="text299"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">energiasalved</text>
+  <text
+     x="94.172791"
+     y="-343.38098"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(85)"
+     id="text301"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">millest jätkub.</text>
+  <text
+     x="-63.019749"
+     y="-337.24866"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(80)"
+     id="text303"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064" />
+  <text
+     x="150.4904"
+     y="-262.67056"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(75)"
+     id="text305"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">Tuleviku Eesti</text>
+  <text
+     x="173.1622"
+     y="-218.9436"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(70)"
+     id="text307"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">pole mäng</text>
+  <text
+     x="191.93687"
+     y="-173.40697"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(65)"
+     id="text309"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">nullsummaga</text>
+  <text
+     x="206.6712"
+     y="-126.40671"
+     font-size="4.5"
+     font-weight="bold"
+     transform="rotate(60)"
+     id="text311"
+     style="font-weight:bold;font-size:16.94664192px;font-family:'Liberation Sans Narrow';fill:#000000;stroke-width:3.76592064">ega võidule.</text>
+  <path
+     id="perimeter-line"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.9963997;stroke-opacity:1"
+     d="M 792.26719,397.24774 A 393.54767,393.54767 0 0 1 400.24608,790.79228 393.54767,393.54767 0 0 1 5.1836698,400.30084 393.54767,393.54767 0 0 1 394.13989,3.72669 393.54767,393.54767 0 0 1 792.2198,391.14167"
+     inkscape:connector-curvature="0" />
+  <path
+     id="outer-cutting-line"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.92622834;stroke-opacity:1"
+     d="M 764.55159,397.24774 A 365.83208,365.83208 0 0 1 400.13855,763.07698 365.83208,365.83208 0 0 1 32.898416,400.0858 365.83208,365.83208 0 0 1 394.4624,31.44041 365.83208,365.83208 0 0 1 764.50753,391.57166"
+     inkscape:connector-curvature="0" />
+  <path
+     id="inner-cutting-line"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.2999163;stroke-opacity:1"
+     d="M 517.10696,396.91912 A 118.45785,118.45785 0 0 1 399.10862,515.3761 118.45785,118.45785 0 0 1 280.1948,397.83811 118.45785,118.45785 0 0 1 397.27065,278.46928 118.45785,118.45785 0 0 1 517.09267,395.08119"
+     inkscape:connector-curvature="0" />
+  <path
+     id="anarchy-sign"
+     d="m 168.27647,217.63817 c -17.22001,-9.94195 -39.44374,-3.98714 -49.38572,13.23288 -9.94196,17.22001 -3.98713,39.44373 13.23288,49.38569 17.21999,9.94199 39.44372,3.98716 49.38568,-13.23284 9.94198,-17.22003 3.98715,-39.44375 -13.23284,-49.38573 z m 0.11358,9.43555 c 10.52895,8.69707 13.51217,23.84476 6.44009,36.09394 -2.62604,4.54838 -6.29202,8.0945 -10.51784,10.51325 z m -8.35089,-4.81947 -38.31473,26.82835 c -0.0164,-4.86599 1.22204,-9.81041 3.84601,-14.35524 7.07002,-12.24561 21.67471,-17.23692 34.46872,-12.47311 z m 0.22016,9.26096 -1.88923,21.5921 -15.86586,-9.16019 z m -24.72587,17.31293 22.09498,12.75651 -1.32823,15.18308 c -6.67166,1.46157 -13.89465,0.51833 -20.3202,-3.19133 -6.42793,-3.71115 -10.85713,-9.49863 -12.92601,-16.01024 z"
+     style="stroke-width:0.12050796"
+     inkscape:connector-curvature="0" />
+</svg>

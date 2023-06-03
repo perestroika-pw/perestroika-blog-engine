@@ -1,0 +1,106 @@
+Wuhani viirus on vanem, kui arvati
+2020-01-28
+perestroika.pw
+koroonaviirus, hiina, lancet
+
+
+<div class=illustration-image>
+<a target=_blank href="https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930183-5">
+<img src="./pics/2020-01-28-lancet-graph-of-wuhan-cases.png"><br>
+Graafik esimese nakatunute grupi kohta<br>
+Allikas: The Lancet<br>
+Litsents: nahhaalselt võetud avaliku tervise huvides [fair use]
+</a>
+</div>
+<p>
+
+
+
+<p>
+Wuhani viiruse osas on mõned varasemad seisukohad vaja üle täpsustada,
+kuna vigade mõju ulatub ka tänapäeva ja tulevikku. Lühidalt öeldes,
+seni kuni me ei tea, kui kaua epideemia Wuhanis varjatult kulges,
+on raske arvutada levikordajat, suremust ja muid parameetreid.
+<p>
+Kes soovib lugeda teadusartiklit, võiks suunduda <a target=_blank href="https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930183-5">The Lancet'i</a>
+lehele. Hea ja mujalt pärineva teabega täiendatud kokkuvõtte
+annavad soome keeles <a target=_blank href="https://www.hs.fi/ulkomaat/art-2000006387481.html">Helsingin Sanomat</a>
+ning inglise keeles <a target=_blank href="https://www.vox.com/2020/1/27/21082354/coronavirus-outbreak-wuhan-china-early-on-lancet">Vox</a>.
+<p>
+Nüüdseks joonistub pilt, et epideemia on kestnud detsembrist saati,
+jäädes alguses riigi (ning riigi sunnil ka meedia) tähelepanu eest varjule.
+Võimalik, et uue haiguse äratundmine oligi sedavõrd raske,
+või olid rasked hoopis bürokraatia rattad, mis fakti tunnistamiseks
+pöörlema tuli saada.
+<p>
+Nüüdseks avaldatud <a target=_blank href="http://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020">ametlikes</a>
+aruannetes mainitakse esimest sümptomitega patsienti 12. detsembril 2019,
+mitu nädalat enne epideemia avalikku algust.
+<p>
+Kõrval olevalt diagrammilt võib näha, et "patsient 0" polnud
+Wuhani kalaturuga seotud, küll aga mitu järgnevat juhtumit.
+<p>
+Samuti selgub, et haigus on saanud ennetajate ees
+kasutada pea kogu detsembri pikkust edumaad
+ja haigestunute enamus on 25-49 aastased isikud.
+Mida kõrgem iga, seda tõenäolisemalt vajatakse intensiivravi.
+<p>
+Täiendavad diagrammid näitavad et kokku sattus
+intensiivravile 39% (16 isikut 41 hulgast) -
+järeldub et haigus kulgeb pigem tõsiselt ja on koormav.
+Wuhani esimeses patsientide grupis kulus sümptomitest
+haiglasse sattumiseni mediaanselt 7 päeva, hingamisraskusteni 8,
+akuutse respiratoorse ärrituse sündroomini 9 ja nendel,
+kellel eriti viletsalt vedas, intensiivravini 10.5 päeva
+sümptomite algusest.
+<p>
+Ravile saabudes näitas patsientide hemogramm leukotsüütide
+ja lümfotsüütide puudust. Kõigil oli kopsupõletik,
+levinuimad komplikatsioonid olid ARDS (29%), RNAaeemia (15%),
+südamelihase kahjustus (12%) ja sekundaarsed nakkused (10%).
+Invasiivset hingamisabi vajas 10% patsientidest.
+22. jaanuariks on 41 patsiendi hulgast 68% koju pääsenud
+ja 15% surnud, ülejäänud viibivad jätkuvalt ravil.
+<p>
+Koju pääsemise kriteeriumid olid 5 palavikuvaba päeva
+ja viiruse puudumine ülemiste hingamisteede proovides.
+Ravimeetoditest - kortikosteroidid põletiku leevendamiseks
+ei vähendanud suremust, pigem lükkasid tervenejatel edasi viirusest vabanemist.
+WHO ajutise soovituse järgi ei tuleks neid süsteemselt kasutada.
+Ükski viirusevastane ravim pole veel tõhusaks osutunud.
+<p>
+Seega võib üldistada, et enne 2. jaanuari ravile saabunute
+suremus oli kõrge. See ei tarvitse iseloomustada hiljem nakatunuid ja laiemat elanikkonda
+mitmesuguses keskkonnas, seda nii viiruse kohanemise kui esimese patsiendigrupi
+selekteerumise tõttu raskemate sümptomite järgi,
+kui ka ravivõtete täienemise tõttu.
+<p>
+Tulenevalt hilinenud reaktsioonist ja ennetusmeetmete käivitamisest
+pakub Hong Kongi Ülikool tõenäoliseks nakatunute arvuks Wuhanis
+ametlikust ligi 10 korda suuremat arvu. Epideemia haripunktiks
+pakutakse aprillikuud.
+<p>
+Hiina avaliku teabe ja tervishoiu süsteem ei ole seda ränka katset
+just lippude lehvides läbinud. Lipud on mudas ja ribadeks,
+põhjusel et info levis viirusest aeglasemalt.
+Infol on võime liikuda nakkusest rutem,
+kui vaid inimeste ühiskonnad seda lubavad.
+Hiina katastroofihaldust uurinud Lauri Paltemaa
+Turu Ülikoolist iseloomustas asja nii:
+<p>
+<div class="quote">"Diktatuuri sümptom on see, et kohalikult tasandilt
+võib keskvalitsusele tuua vaid häid uudiseid. Halbade uudiste
+eest saab karistada."</div>
+<p>
+Nakkushaiguse korral infoga venitades võtavad inimesed endilt
+kriitilise tähtsusega võimaluse - võimaluse olla haigusest kiirem.
+Nii seatakse ohtu enda ja teiste elu ning tervis,
+oma kaasmaalased ja ülejäänud maailm.
+<p>
+Loodame muidugi, et hilinenud stardist pahalasele järgi jõutakse,
+aga praegu kätte sattunud info põhjal on tegemist tugeva epideemia materjaliga,
+mis hooletuse korral pandeemiaks võib minna. Majanduslangus
+on seekord kõigile pealekauba.
+<p>
+
+

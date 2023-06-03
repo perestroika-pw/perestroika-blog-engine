@@ -1,0 +1,99 @@
+Ennetav metainfo korje tuleb tühistada
+2021-04-07
+perestroika.pw
+side, õigus, jälgimisühiskond
+
+
+<div class=illustration-image>
+<img src="./pics/2021-04-07-metadata-pagecurl-small.png"><br>
+Keerame puhta lehe, parandame tehtud vead.<br>
+Loe teemast lähemalt leheküljel:<br>
+<a target=_blank href="https://isoc.ee/metadata">https://isoc.ee/metadata</a>
+</div>
+
+<p>
+
+Pole saladus, et seadusloome käib mõnikord valesti.
+Näiteks omandireformiga loodud uut ebaõiglust veeretatakse käest kätte tänaseni,
+viimane uudis oli uuring, kus sotsioloogid taas tõdesid:
+<a target=_blank href="https://epl.delfi.ee/artikkel/92948555/30-aastat-hiljem-sunduurnikud-voivad-saada-kodukaotuse-eest-valuraha">
+toimus küll ja peaks heastama</a>. Omandireformi teemal vähemalt
+paistab minister Aab midagi tegevat. Toome seda kui positiivset näidet:
+isegi aastakümnete vanuse veaga saab tegeleda.
+<p>
+Sarnane olukord valitseb aastast 2007 digiõiguste vallas.
+Euroopa Liit võttis aastal 2006 vastu direktiivi 2006/24/EC.
+Nagu enamust vigu, tehti see kiirustades ja innuga.
+Privaatsus löödi kogemata surnuks une pealt.
+Sätestati, et kõigi telefoniomanike side metainfot tuleb koguda:
+registreerida kes, millal, kellega ja kus võrgukärjes suhtles.
+<p>
+Eesti juurutas direktiivi aastal 2007 kiirustades,
+millest annab märku Elektroonilise Side Seaduse kiire ja vastuhäälteta
+läbiminek ühes paketis Rahvatervise Seadusega.
+<p>
+Direktiivi tühistas Euroopa Kohus aastal 2014, leides vastuolu
+Euroopa Inimõiguste Hartaga. Kohus leidis, et direktiiv rikub
+eraelu puutumatust ja isikuandmete kaitset, ning teeb seda
+ebaproportsiooniliselt suures mahus.
+Kui 7 aastat oleks vajalik aeg, et õiglus taastuks,
+lepiks mõned meist sellega vaikselt kirudes, aga lepiks.
+<p>
+Kui aga õiglus taastub tindina paberil,
+sedasi et tühistatud õigusakt muutis kogu Euroopas tavasid jäädavalt,
+sest liikmesriigid ei vaevu pöörama tagasi seadusi,
+mille õigusvastase direktiivi alusel ära muutsid,
+siis on seadusloomega asjad sügavalt katki.
+<p>
+Metainfo talletamine pole väike teema.
+See on põhjalik teave meie kõigi igapäevase elu kohta.
+Teave võib inimliku vea või tehnilise küündimatuse tõttu
+lekkida avalikuks või sattuda salaja pahasoovliku osapoole kätte.
+Tänapäeval, kui enamus telefone ühendub iga paari minuti tagant
+ühe või teise IP-aadressiga, annab metainfo korje sama tulemuse,
+mille annaks valimatu jälitustegevus.
+<p>
+Kohus ei tarvitse lubada suvalisi kalaretki kogutud andmetes
+ja Euroopa Kohtu tunnustuseks tuleb öelda, et nad juba valmistuvad
+piirama "moosivaraste püüdmist" (kergete kuritegude lahendamist)
+valimatult kogutud metainfo abil... kuid on fakt, et õigusvastaselt
+käima pandud korje kestab. Euroopa Liit on oma vea parandanud,
+aga Eesti on laiskade klubis, kus leitakse ettekäändeid.
+<p>
+Elu ei pea käima sedapidi, et igal jõuametkonnal alati mugav oleks.
+Meie ühiskonna privaatsuse luugid peavad igapäevasest hoolsusest
+olema suletud, et juhuslik võimulaine nendest neist sisse ei tormaks
+ja meid põhja ei viiks. Kui Eestit peaks kunagi ohustama autokraatia,
+soovime märgata, kuidas autokraat meie privaatsuse
+kallal kangutab, et temast siis vabaneda.
+Me ei soovi hoida tagumikku pannil kogu aeg, lootuses et
+keegi ei süüta pliiti.
+<p>
+Kui peaks tekkima vajadus metainfo valimatu talletamise jaoks,
+siis peaks toimuma avalik arutelu, võetama vastu tähtajaline seadus,
+et lahendada kriis ja ülemäärane andmekorje pärast lõppema.
+Säärast arutelu pole toimunud. Ainuõige käik on taastada õiguspärane olukord enne viga.
+<b>Nüüd on selleks ka võimalus,</b> kuna Riigikogus on tegemisel
+uus Elektroonilise Side Seadus.
+<p>
+<b>Kui oled riigikogu liige</b>, uuri oma fraktsioonist
+ja pinginaabritelt, kes algatab vigade paranduse?
+Kui tahate au ja kuulsust jagada, tehke seda koos.
+Tehke ettepanek Elektroonilise Side Seaduse paragrahv 111¹ tühistada.
+<p>
+<b>Kui oled tavakodanik</b> ja Riigikogu jätab tegutsemata,
+saad teemat peagi torkida rahvaalgatusel,
+mis sellisel juhul luuakse. Kui hääli koguneb üle 1000,
+peab Riigikogu küsimust arutama. Küsimus,
+mis puudutab kõigi inimeste andmeid, ei ole sobilik
+sahtli põhja jätmiseks.
+<p>
+P.S.
+<p>
+Täna ilmub Õhtulehes alltoodud reklaam:
+<p>
+<a target=_blank href="./pics/2021-04-07-vigade-parandus.pdf">
+<img class="content-image-wide" width=800 src="./pics/2021-04-07-vigade-parandus.png">
+</a>
+<p>
+</div>

@@ -1,0 +1,26 @@
+git config --global user.email "you@example.com"
+
+git add --all
+
+git add index.html
+
+git commit -m "Commit message"
+
+
+First time:
+==============
+
+git push -u origin main
+git push --set-upstream origin main
+
+
+To find status:
+================
+
+cat .git/config
+
+
+All other times:
+=================
+
+git push

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project basedir="." default="jar" name="perestroika">
+
+    <property name="package" value="perestroika"/>
+    <property name="basepath" value="${basedir}"/>
+    <property name="srcpath" value="${basedir}/src"/>
+    <property name="libpath" value="${basedir}/lib"/>
+    <property name="builddir" value="${basedir}/build"/>
+    <property name="jarpath" value="${basedir}/${package}.jar"/>
+
+    <path id="sourcepath">
+        <pathelement path="${srcpath}"/>
+    </path>
+
+    <path id="binpath">
+    </path>
+
+    <path id="buildpath">
+        <path refid="sourcepath"/>
+        <path refid="binpath"/>
+    </path>
+
+    <target name="clean" depends="">
+        <delete verbose="true">
+            <fileset file="${jarpath}"/>
+            <fileset dir="${builddir}"/>
+        </delete>
+    </target>
+
+    <target name="build" depends="clean">
+        <javac srcdir="${srcpath}" destdir="${builddir}" classpathref="buildpath" source="1.6" target="1.6">
+            <include name="perestroika/*.java"/>
+        </javac>
+    </target>
+
+    <target name="jar" depends="build">
+        <jar basedir="${builddir}" destfile="${jarpath}">
+            <manifest>
+                <attribute name="Main-Class" value="perestroika.Main"/>
+            </manifest>
+        </jar>
+    </target>
+
+</project>

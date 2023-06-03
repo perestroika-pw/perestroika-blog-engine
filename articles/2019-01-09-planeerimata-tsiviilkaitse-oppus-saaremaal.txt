@@ -1,0 +1,91 @@
+"Planeerimata tsiviilkaitse õppus" Saaremaal
+2019-01-09
+Finrod F
+elekter, elektri puudumine, tsiviilkaitse
+
+<p>
+ERR kirjutab, et <a target="_self" href="https://www.err.ee/896815/kuressaare-linn-on-mitmendat-tundi-elektrita">Saaremaa on juba mitu tundi elektrita</a>.
+Oleme kurvad, et saarlastele säärane jama kaela langes, aga meie jaoks
+loob see kohustuse meenutada, miks on teatud valdkondades
+tsentraliseeritus halb - või kui mitte halb, siis vähemalt haavatav.
+<p>
+Energia tootmine on valdkond, mis mõjutab tänapäeva ühiskonnas kõike.
+Ilma elektrita seiskub küttevee tsirkulatsioon. Tankla ei anna kütust.
+Pangaautomaat ei anna raha, kaardimakse ei tööta,
+digiallkirja ei saa anda. Reovee pumpla jääb seisma,
+torud võivad jäätuma hakata. Valge aeg lõppeb talvel kell 16
+ning küünlavalgel poleks kah midagi teha.
+<p>
+Pikem katkestus tähendab ka seda, et eriti külma korral võivad
+mobiilivõrgu tugijaamadest väetimad maha minna, kuna nende autonoomsuse periood sai ümber.
+Elektri lisaks võib maha kukkuda side.
+<p>
+Saaremaa on isoleeritud süsteemina, kus oma tootmisvõimsust napib,
+musternäide tsentraliseeritud elektrivõrgu nõrkusest.
+Viimati kui vaatasin, viis sinna 2 või 3 liini,
+mille rikke korral saare majandus lihtsalt kummuli keerab.
+<p>
+Ainult haigla käivitab generaatorid ja opereerib edasi.
+Kiirabi ja politsei võib ära unustada, kuna neid ei saa kutsuda.
+Tulekahju tuleb samuti ise kustutada, kui just tuletõrjuja
+binokliga suuremat sorti tossusammast taevas ei näe
+(öösel ja sombse ilmaga seda ei juhtu pigem).
+<p>
+Asjaolu, et elutähtsat kraami saab katkema panna, on probleem.
+Oli probleem Krimmi poolsaarel riikide nägeluse ja mitteriiklike osapoolte sabotaaži ajal...
+on jätkuvalt probleem tormide ajal... oleks probleem, kui keegi võrgu juhtsüsteemidesse sisse murraks...
+...ja on probleem praegu, kui miski lihtsalt, khm, perseli kukub.
+Suurtest päikesetormidest ei hakka siinkohal rääkima.
+<p>
+Põhimõtteliselt on siin paar võimalust:
+<p>
+a) ehitame parema elektrivõrgu<br>
+b) soodustame kõrgendatud autonoomsusega süsteemide rajamist<br>
+c) ärme üldse tee ühiskonda, mis nii kergelt siruli käib<br>
+<p>
+Ühiskond on keeruline süsteem. Sobiv lahendus ei ole A, B ega C,
+vaid kindlasti nende segu. Perestroika poliitilises programmis
+on sees B ja C, kuna parema elektrivõrgu osas on ilmselt konsensus,
+et seda on niikuinii vaja. Meie kujutelmas oleks elektrivõrguga
+pidevalt ühendatud arvukaid elektri tagasimüümise võimega
+majapidamisi, mis võrgu üldise tõrke korral sama alajaama
+teeninduspiirkonnas teisi tarbijaid aidata saaksid.
+Elektriautod, mille omanik neid parasjagu lubab tühejeneda,
+hakkaks koheselt ise tühjenema, et käitada sidevõrgu tugijaamu,
+küttekatlaid ja tsirkulatsiooni pumpasid.
+<p>
+Üks mu kolleeg käis paar aastat tagasi Soomes anarhistide festivalil,
+kus tutvustas autonoomse sidevõrgu rajamiseks vajalikku tehnikat.
+Tema ütleb, et see on jõukohane, ning tugijaama autonoomsuse
+saab enamusel kuudest tagada päikeseneergiaga pikaks ajaks.
+Tõsi küll, ilma operaatorita sidevõrk, mis kasutab lubamata raadiosagedusi,
+oleks ilmselt keelatud ja illegaalne. Sellegipoolest soovib ta säärase rajada,
+võimalik, et kunagi kuulete sellest nimelt siin.
+<p>
+Teine kolleeg ei muretseks ilma elektrita üldse eriti,
+kuna toodab seda ise - paraku tema kliendid ei tooda,
+ning elektrikatkestus tähendab talle äri seiskumist.
+Tema arvukaist klientidest on võimekus paberi abil kaupa liigutada... paaril.
+Laod isegi ei teaks, kus nende kaup asub, ning selle
+taskulambi valgel leidmine võtaks ajastuid.
+<p>
+Veel hullem tase on see, kui andmed mitme võrgusõlme taga "pilves" on.
+Kui totaalse prohmaka korral saab kohalikule serverile
+autoaku ja inverteriga toite luua ja mingi kohmaka laoseisude
+arvestuse sülearvutisse evakueerida, siis ookeanide taga asuva pilveserveriga
+oleks ****kukkumine täiuslik.
+<p>
+Võib-olla ei solvu lugeja väga, kui ma siinkohal inimkonna suhet tehnoloogiaga
+nimelt Tolkieni juttude Sauroniga võrdlen. Me ei ela veel
+torni tipus, mis võimusõrmuse hävimise peale pilbasteks vajuks.
+Meie riik ei muutu veel tehnilise tõrke peale suitsevaks kraatriks...
+...aga oleme sinnapoole teel.
+<p>
+Tehnoloogia vajab tarka ja tasakaalukat omanikku.
+Ülemäära ambitsioonika, ebapiisavalt targa või eetikapuudega omaniku
+käes on tehnoloogia väga ohtlik. See võib anda tohutu võimu
+korraldada enda elu (väga hea), valitseda teiste üle (päris halb)
+ja kujundada ümber keskkonda (ainult tarkadele ja ettevaatlikele).
+Võõrutusnähud säärase võimu kadumisel on päris hullud. Järsku peaks
+ettevaatlikult ja vähehaaval üle vaatama meie olukorda?
+<p>
