@@ -76,7 +76,7 @@ public class Main {
 
 
     		articleDir = new File(baseDir + baseDir.separator + "articles");
-    		destDir = new File(baseDir + baseDir.separator + "site");
+    		destDir = new File(baseDir + baseDir.separator + "docs");
     		themeDir = new File(baseDir + baseDir.separator + "theme");
 
     		String header = load(new File(themeDir + baseDir.separator + "header.txt"));
