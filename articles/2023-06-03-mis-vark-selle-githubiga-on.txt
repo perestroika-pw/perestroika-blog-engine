@@ -1,0 +1,24 @@
+Mis värk selle GitHub-iga on?
+2023-06-03
+perestroika.pw
+meta, läbipaistvus
+
+<p>
+Meie suurejooneline blogi on ajutiselt taandunud minu (Jaan Veski, pseudonüüm)
+isiklikuks blogiks. Kõrvalnähtusena uue majutuse otsimisele (vana tõstis hindu)
+otsustasin panna blogimootori lähtekoodi GitHub-i üles, kuigi ei näe,
+et seda kellelgi tarvis võiks minna.
+<p>
+Kõrvalnähtusena sai blogi visatud dokumentatsiooni kataloogi
+ja on loetav GitHub Pages serverilt, aga minul on muret vähem
+nign elu lihtsam, kuna üles laadida saab "git push" käsuga. :)
+<p>
+Kui juhtumisi asi sinnamaale jõuab, et mingit kasulikku tarkvara
+kirjutatud saab, saab tehtud kontot ka selleks pruukida.
+<p>
+Senikaua: chill, relax, see võib olla ajutine areng,
+võib-olla majutub blogi tulevikus mujal, võib-olla tekib foorum
+või mõni muu vidin juurde. Lubadusi ei anna.
+<p>
+
+</div>
