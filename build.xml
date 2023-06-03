@@ -28,7 +28,7 @@
     </target>
 
     <target name="build" depends="clean">
-        <javac srcdir="${srcpath}" destdir="${builddir}" classpathref="buildpath" source="1.6" target="1.6">
+        <javac debug="true" srcdir="${srcpath}" destdir="${builddir}" classpathref="buildpath" source="1.6" target="1.6">
             <include name="perestroika/*.java"/>
         </javac>
     </target>
