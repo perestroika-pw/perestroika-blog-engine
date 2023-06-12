@@ -1,0 +1,62 @@
+Üldstreik Redditis 12.-14. juunil 2023
+2023-06-12
+perestroika.pw
+sotsiaalmeedia, äri, streik
+
+<p>
+Nagu ehk märganud olete, oli Perestroika blogi
+"kommentaarium" seni Redditis. Vana Reddit on
+tekstipõhise eluviisiga inimestele üsna mugav.
+Eesti redditis oli kerge nii konstruktiivseks jutuks
+kui piikide murdmiseks vestluskaaslasi leida.
+<p>
+Siis "juhtus" Redditi administratsioon: nad leidsid,
+et nende püha ülesanne on hävitada sidusrakendused.
+Nad kehtestasid API kutsetele piirangud ja hinnad,
+mille peale kõik alternatiivsete Redditi liideste arendajad
+alla andsid. Mis veel hullem, partneritele anti hinnapommiks
+valmistumise aega 1 kuu. "Kirves tuleb vuhinal"
+ei ole tore suhtumine koostöösse.
+<p>
+Asi meenutab väga Facebooki ja XMPP kurba lugu.
+Kunagi oli XMPP populaarne protokoll ja Facebook Messenger
+lubas firma serverite kaudu suhelda muude XMPP klientidega.
+Mina näiteks vestlesin FB-sõpradega Pidgini abil.
+Siis teatas Facebook, et "kirves tuleb vuhinal",
+leidis et "aias on küllalt mesilasi" ja ehitas aiale
+klaaskupli peale. Edaspidi tuli sumisemiseks lõustikus registreeruda.
+<p>
+Mul on tekkinud mulje, et sedasi käitub firma teatud arengujärgus,
+kui tekkinud on tunne, et ollakse võimsad ja tugevad. Miks?
+Ma ei tea, võib-olla soovitakse sidusrakenduste turuosa omale,
+aga ma ei mõista, kuidas? Igatahes puudutas see kõige valusamalt moderaatoreid,
+kuna nad kasutavad oma redditite modereerimiseks
+roboteid ja abirakendusi. Moderaatoritele oli Redditi sõnum
+"vaip vuhinal jalge alt".
+<p>
+Nii algas üldstreik. Algul liitusid need,
+kellele enim haiget tegi. Siis liitusid need,
+kellele on vasutmeelt teerulliga üle sõitmine (näiteks r/futurology
+ja r/anarchism). Kaua kaalusid suured, miljonite kasutajatega
+redditid (näiteks r/europe), aga lõpuks liitusid ka paljud neist.
+Protestivad ka r/eesti ja r/suomi.
+Üldstreik on paar tundi noor - tulemus pole teada.
+Palun hoiduge Redditi kasutamisest 2 päeva vältel,
+tähtis on näidata korporatsiooni kontorile kasutajate arvu langust!
+<p>
+Blogi uus kommentaarium, tulevikus loodetavasti
+paralleelne Redditi omaga, asub lahkete päikesepunkide
+Lemmy serveril "slrpnk.net" (Lemmy on üks Fediverse'i peal
+jooksvaid rakendusi ja ühildub mingil määral Mastodoniga).
+<p>
+Tere tulemast arutlema aadressil:
+<p>
+<a target=_blank href="https://slrpnk.net/c/perestroika_pw">https://slrpnk.net/c/perestroika_pw</a>
+<p>
+Varu-kontaktipunkt Mastodonis asub
+<a target=_blank href="https://a.nti.social/users/perestroika-pw">siin</a>
+ja loomulikult töötab iga päev RiseUp-i meiliaadress.
+Kas seda iga päev loetakse, on põnevam teema. :)
+<p>
+
+</div>
